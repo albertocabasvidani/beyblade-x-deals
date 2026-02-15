@@ -9,6 +9,8 @@ import { AffiliateLinks } from '@/components/product/affiliate-links';
 import { PriceHistoryChart } from '@/components/product/price-history-chart';
 import { AddToCartButton } from '@/components/cart/add-to-cart-button';
 
+const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+
 interface Props {
   params: Promise<{ slug: string }>;
 }
@@ -22,13 +24,32 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const product = getProductBySlug(slug);
   if (!product) return {};
 
+  const title = `${product.name} - Prezzo Amazon JP vs IT`;
+  const description = `Confronta il prezzo di ${product.name} tra Amazon Giappone e Italia.${
+    product.savings_pct && product.savings_pct > 0
+      ? ` Risparmia ${product.savings_pct.toFixed(0)}% comprando dal Giappone!`
+      : ''
+  } Spedizione consolidata in Italia.`;
+
   return {
-    title: `${product.name} - Prezzo Amazon JP vs IT`,
-    description: `Confronta il prezzo di ${product.name} tra Amazon Giappone e Italia. ${
-      product.savings_pct && product.savings_pct > 0
-        ? `Risparmia ${product.savings_pct.toFixed(0)}%!`
-        : ''
-    }`,
+    title,
+    description,
+    openGraph: {
+      title,
+      description,
+      url: `${BASE_URL}/products/${slug}`,
+      type: 'website',
+      ...(product.image_url ? { images: [{ url: product.image_url, alt: product.name }] } : {}),
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description,
+      ...(product.image_url ? { images: [product.image_url] } : {}),
+    },
+    alternates: {
+      canonical: `${BASE_URL}/products/${slug}`,
+    },
   };
 }
 
@@ -37,8 +58,48 @@ export default async function ProductPage({ params }: Props) {
   const product = getProductBySlug(slug);
   if (!product) notFound();
 
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Product',
+    name: product.name,
+    ...(product.image_url ? { image: product.image_url } : {}),
+    ...(product.asin ? { sku: product.asin, gtin: undefined } : {}),
+    description: `${product.name} - Beyblade X disponibile su Amazon Giappone con spedizione in Italia`,
+    brand: { '@type': 'Brand', name: 'Takara Tomy' },
+    offers: [
+      ...(product.price_jp_eur ? [{
+        '@type': 'Offer',
+        url: `https://www.amazon.co.jp/-/en/dp/${product.asin}`,
+        priceCurrency: 'EUR',
+        price: product.price_jp_eur,
+        availability: product.available_jp ? 'https://schema.org/InStock' : 'https://schema.org/OutOfStock',
+        seller: { '@type': 'Organization', name: 'Amazon Japan' },
+      }] : []),
+      ...(product.price_it_eur ? [{
+        '@type': 'Offer',
+        url: `https://www.amazon.it/dp/${product.asin}`,
+        priceCurrency: 'EUR',
+        price: product.price_it_eur,
+        availability: 'https://schema.org/InStock',
+        seller: { '@type': 'Organization', name: 'Amazon Italia' },
+      }] : []),
+    ],
+  };
+
+  const breadcrumbJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Catalogo', item: BASE_URL },
+      ...(product.category ? [{ '@type': 'ListItem', position: 2, name: product.category }] : []),
+      { '@type': 'ListItem', position: product.category ? 3 : 2, name: product.name },
+    ],
+  };
+
   return (
     <div className="mx-auto max-w-5xl px-4 py-6">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }} />
       <nav className="mb-4 text-sm text-slate-500">
         <Link href="/" className="hover:text-brand">Catalogo</Link>
         <span className="mx-2">/</span>

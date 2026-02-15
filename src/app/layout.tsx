@@ -10,18 +10,39 @@ const inter = Inter({
   subsets: ['latin'],
 });
 
+const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+
 export const metadata: Metadata = {
+  metadataBase: new URL(BASE_URL),
   title: {
     default: 'BX Deals - Risparmia su Beyblade X da Amazon Giappone',
     template: '%s | BX Deals',
   },
   description:
     'Confronta i prezzi di Beyblade X tra Amazon Giappone e Italia. Risparmia fino al 60% con la spedizione consolidata.',
+  keywords: [
+    'beyblade x', 'beyblade x prezzo', 'beyblade x amazon giappone',
+    'comprare beyblade x dal giappone', 'beyblade x risparmio',
+    'beyblade x spedizione italia', 'amazon japan beyblade',
+    'beyblade x economici', 'beyblade x offerte',
+  ],
   openGraph: {
     title: 'BX Deals - Risparmia su Beyblade X da Amazon Giappone',
     description:
-      'Confronta i prezzi di Beyblade X tra Amazon Giappone e Italia. Risparmia fino al 60%.',
+      'Confronta i prezzi di Beyblade X tra Amazon Giappone e Italia. Risparmia fino al 60% con la spedizione consolidata.',
     type: 'website',
+    url: BASE_URL,
+    siteName: 'BX Deals',
+    locale: 'it_IT',
+  },
+  twitter: {
+    card: 'summary',
+    title: 'BX Deals - Risparmia su Beyblade X da Amazon Giappone',
+    description:
+      'Confronta i prezzi di Beyblade X tra Amazon Giappone e Italia. Risparmia fino al 60%.',
+  },
+  alternates: {
+    canonical: BASE_URL,
   },
 };
 

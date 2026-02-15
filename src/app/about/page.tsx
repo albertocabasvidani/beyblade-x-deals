@@ -5,9 +5,57 @@ export const metadata: Metadata = {
   description: 'Come funziona BX Deals: spedizione consolidata Amazon JP, stima dei costi e affiliate disclosure.',
 };
 
+const faqJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [
+    {
+      '@type': 'Question',
+      name: 'Perché comprare Beyblade X dal Giappone?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'I Beyblade X costano spesso molto meno su Amazon Giappone rispetto ad Amazon Italia. Anche con la spedizione internazionale, il risparmio può arrivare fino al 60%.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Come funziona la spedizione consolidata Amazon JP?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Amazon Giappone consolida gli articoli FBA (Fulfilled By Amazon) in un unico pacco, riducendo il costo di spedizione per articolo. Più prodotti ordini, più risparmi sulla spedizione.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Perché non trovo un certo Beyblade X sul sito?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'BX Deals mostra solo i Beyblade venduti e spediti direttamente da Amazon (FBA) in Italia. Se un prodotto non è presente, probabilmente non è disponibile come FBA su Amazon JP o non viene spedito in Italia.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'BX Deals è un e-commerce?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'No, BX Deals non vende nulla. È uno strumento gratuito per confrontare i prezzi tra Amazon Giappone e Italia. Per acquistare, devi iscriverti su Amazon.co.jp e comprare direttamente da loro.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Si paga la dogana sugli acquisti da Amazon Giappone?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'No, per ordini sotto i 150€ di valore merce non si pagano dazi doganali. La maggior parte degli acquisti di Beyblade X rientra in questa soglia.',
+      },
+    },
+  ],
+};
+
 export default function AboutPage() {
   return (
     <div className="mx-auto max-w-3xl px-4 py-8">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }} />
       <h1 className="text-2xl font-bold">Come funziona</h1>
 
       <div className="mt-6 flex flex-col gap-8 text-sm leading-relaxed text-slate-700">
