@@ -1,6 +1,6 @@
 'use client';
 
-export type SortOption = 'name' | 'price-asc' | 'price-desc' | 'savings';
+export type SortOption = 'name' | 'price-asc' | 'price-desc' | 'savings' | 'savings-shipped';
 
 interface SortSelectProps {
   value: SortOption;
@@ -8,10 +8,11 @@ interface SortSelectProps {
 }
 
 const options: { value: SortOption; label: string }[] = [
-  { value: 'name', label: 'Nome A-Z' },
+  { value: 'savings-shipped', label: 'Più convenienti (sped. inclusa)' },
+  { value: 'savings', label: 'Risparmio maggiore (solo prezzo)' },
   { value: 'price-asc', label: 'Prezzo crescente' },
   { value: 'price-desc', label: 'Prezzo decrescente' },
-  { value: 'savings', label: 'Risparmio maggiore' },
+  { value: 'name', label: 'Nome A-Z' },
 ];
 
 export function SortSelect({ value, onChange }: SortSelectProps) {

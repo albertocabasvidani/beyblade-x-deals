@@ -12,6 +12,12 @@ interface ProductGridProps {
   categories: string[];
 }
 
+function savingsWithShipping(p: Product): number {
+  if (p.price_it_eur == null || p.price_jp_eur == null) return -9999;
+  const totalJp = p.price_jp_eur + (p.shipping_jp_eur ?? 0);
+  return p.price_it_eur - totalJp;
+}
+
 function sortProducts(products: Product[], sort: SortOption): Product[] {
   return [...products].sort((a, b) => {
     switch (sort) {
@@ -23,6 +29,8 @@ function sortProducts(products: Product[], sort: SortOption): Product[] {
         return (b.price_jp_eur ?? 0) - (a.price_jp_eur ?? 0);
       case 'savings':
         return (b.savings_pct ?? -999) - (a.savings_pct ?? -999);
+      case 'savings-shipped':
+        return savingsWithShipping(b) - savingsWithShipping(a);
       default:
         return 0;
     }
@@ -41,7 +49,7 @@ function matchesSearch(product: Product, query: string): boolean {
 
 export function ProductGrid({ products, categories }: ProductGridProps) {
   const [category, setCategory] = useState<string | null>(null);
-  const [sort, setSort] = useState<SortOption>('savings');
+  const [sort, setSort] = useState<SortOption>('savings-shipped');
   const [search, setSearch] = useState('');
 
   const filtered = useMemo(() => {
