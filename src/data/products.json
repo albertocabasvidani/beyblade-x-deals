@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-17T17:32:33.584Z",
+  "exportedAt": "2026-02-17T17:38:41.747Z",
   "exchangeRate": {
     "jpy_eur": 0.00552,
     "fetchedAt": "2026-02-17 16:06:08"
@@ -114,9 +114,9 @@
       "shipping_jp_eur": 21.99,
       "fulfilled_by_amazon": true,
       "seller_jp": "Amazon.co.jp",
-      "price_it_eur": 20.5,
-      "savings_eur": 5.53,
-      "savings_pct": 27,
+      "price_it_eur": 20.82,
+      "savings_eur": 5.85,
+      "savings_pct": 28.1,
       "price_history_jp": [
         {
           "date": "2026-02-09",
@@ -139,10 +139,6 @@
         {
           "date": "2026-02-11",
           "price_eur": 20.82
-        },
-        {
-          "date": "2026-02-17",
-          "price_eur": 20.5
         }
       ],
       "search_terms": [
