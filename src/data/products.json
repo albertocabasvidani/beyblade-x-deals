@@ -1,10 +1,626 @@
 {
-  "exportedAt": "2026-02-20T08:45:52.583Z",
+  "exportedAt": "2026-02-22T21:09:53.390Z",
   "exchangeRate": {
     "jpy_eur": 0.00549,
     "fetchedAt": "2026-02-20 08:16:18"
   },
   "products": [
+    {
+      "id": 71,
+      "slug": "b0clfnmpf6",
+      "asin": "B0CLFNMPF6",
+      "name": "BX-00 Transformers Optimus Prime vs Megatron",
+      "name_it": null,
+      "category": "Set",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 45.95,
+      "shipping_jp_eur": 22.43,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "BLUEK",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 45.95
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-00 Transformers Optimus Prime vs Megatron",
+        "BX-00-TF"
+      ]
+    },
+    {
+      "id": 69,
+      "slug": "b0d88fvgbh",
+      "asin": "B0D88FVGBH",
+      "name": "BX-02 Dual Pack Gail Wyvern & Sword Dran",
+      "name_it": null,
+      "category": "Set",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 26.68,
+      "shipping_jp_eur": 21.37,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Wadoh Store",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 26.68
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-02 Dual Pack Gail Wyvern & Sword Dran",
+        "BX-02"
+      ]
+    },
+    {
+      "id": 72,
+      "slug": "b0c52n5492",
+      "asin": "B0C52N5492",
+      "name": "BX-07 Start Dash Set",
+      "name_it": null,
+      "category": "Set",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 61.29,
+      "shipping_jp_eur": 63.93,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "セカンドストア",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 61.29
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-07 Start Dash Set",
+        "BX-07"
+      ]
+    },
+    {
+      "id": 38,
+      "slug": "b0c52yjqbc",
+      "asin": "B0C52YJQBC",
+      "name": "BX-10 Extreme Stadium",
+      "name_it": null,
+      "category": "Stadium",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 11.43,
+      "shipping_jp_eur": 57.53,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon.co.jp",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 11.43
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-10 Extreme Stadium",
+        "BX-10"
+      ]
+    },
+    {
+      "id": 54,
+      "slug": "b0fm4dfgf5",
+      "asin": "B0FM4DFGF5",
+      "name": "BX-14-02 Shark Edge 4-80N",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 19.48,
+      "shipping_jp_eur": 21.41,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 19.48
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-14-02 Shark Edge 4-80N",
+        "BX-14-02"
+      ]
+    },
+    {
+      "id": 52,
+      "slug": "b0fn84bw1r",
+      "asin": "B0FN84BW1R",
+      "name": "BX-14-03 D-Randsword 3-80B",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 11.11,
+      "shipping_jp_eur": 21.44,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 11.11
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-14-03 D-Randsword 3-80B",
+        "BX-14-03"
+      ]
+    },
+    {
+      "id": 55,
+      "slug": "b0drv2c9w6",
+      "asin": "B0DRV2C9W6",
+      "name": "BX-14-05 Night Shield 4-60LF",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 8.87,
+      "shipping_jp_eur": 21.43,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 8.87
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-14-05 Night Shield 4-60LF",
+        "BX-14-05"
+      ]
+    },
+    {
+      "id": 53,
+      "slug": "b0drv3cf32",
+      "asin": "B0DRV3CF32",
+      "name": "BX-14-06 Wizard Arrow 3-60T",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 6.7,
+      "shipping_jp_eur": 21.44,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 6.7
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-14-06 Wizard Arrow 3-60T",
+        "BX-14-06"
+      ]
+    },
+    {
+      "id": 46,
+      "slug": "b0ckqt37tb",
+      "asin": "B0CKQT37TB",
+      "name": "BX-19 Starter Rhino Horn 3-80S",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 11.16,
+      "shipping_jp_eur": 21.37,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "shiromame",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 11.16
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-19 Starter Rhino Horn 3-80S",
+        "BX-19"
+      ]
+    },
+    {
+      "id": 50,
+      "slug": "b0ckqtc5s8",
+      "asin": "B0CKQTC5S8",
+      "name": "BX-21 Hellz Chain Deck Set",
+      "name_it": null,
+      "category": "Set",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 35.16,
+      "shipping_jp_eur": 23.79,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Nippon Basics",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 35.16
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-21 Hellz Chain Deck Set",
+        "BX-21"
+      ]
+    },
+    {
+      "id": 49,
+      "slug": "b0cmzrmkpg",
+      "asin": "B0CMZRMKPG",
+      "name": "BX-24 Random Booster Vol.2",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 15.29,
+      "shipping_jp_eur": 21.31,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "MULTIPLE SHOP",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 15.29
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-24 Random Booster Vol.2",
+        "BX-24"
+      ]
+    },
+    {
+      "id": 65,
+      "slug": "b0g29l65lh",
+      "asin": "B0G29L65LH",
+      "name": "BX-26 Booster Unicorn Sting 5-60GP",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 11.05,
+      "shipping_jp_eur": 21.82,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 11.05
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-26 Booster Unicorn Sting 5-60GP",
+        "BX-26"
+      ]
+    },
+    {
+      "id": 73,
+      "slug": "b0cz4lzy2t",
+      "asin": "B0CZ4LZY2T",
+      "name": "BX-27 Dual Pack Gail Wyvern & Tail Viper",
+      "name_it": null,
+      "category": "Set",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 30.03,
+      "shipping_jp_eur": 21.51,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Wadoh Store",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 30.03
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-27 Dual Pack Gail Wyvern & Tail Viper",
+        "BX-27"
+      ]
+    },
+    {
+      "id": 74,
+      "slug": "b0cs8kz5mf",
+      "asin": "B0CS8KZ5MF",
+      "name": "BX-28 Dual Pack Yell Kong & HelmKnight",
+      "name_it": null,
+      "category": "Set",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 25.56,
+      "shipping_jp_eur": 21.42,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Wadoh Store",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 25.56
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-28 Dual Pack Yell Kong & HelmKnight",
+        "BX-28"
+      ]
+    },
+    {
+      "id": 67,
+      "slug": "b0fnjfyxfh",
+      "asin": "B0FNJFYXFH",
+      "name": "BX-36-01 Whale Wave 5-80E",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 25.56,
+      "shipping_jp_eur": 22.74,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 25.56
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-36-01 Whale Wave 5-80E",
+        "BX-36-01"
+      ]
+    },
+    {
+      "id": 48,
+      "slug": "b0dgfz6wr2",
+      "asin": "B0DGFZ6WR2",
+      "name": "BX-37 Double Extreme Stadium Set",
+      "name_it": null,
+      "category": "Stadium",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 50.12,
+      "shipping_jp_eur": 65.06,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "アマゾン安心配送",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 50.12
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-37 Double Extreme Stadium Set",
+        "BX-37"
+      ]
+    },
+    {
+      "id": 47,
+      "slug": "b0fq9zslpd",
+      "asin": "B0FQ9ZSLPD",
+      "name": "BX-47 String Launcher L Red",
+      "name_it": null,
+      "category": "Launcher",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 3.3,
+      "shipping_jp_eur": 23.63,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "グルグル",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 3.3
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-47 String Launcher L Red",
+        "BX-47"
+      ]
+    },
+    {
+      "id": 37,
+      "slug": "b0gg8qm8ys",
+      "asin": "B0GG8QM8YS",
+      "name": "BX-48 Random Booster Vol.9",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 8.79,
+      "shipping_jp_eur": 21.42,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon.co.jp",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 8.79
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48 Random Booster Vol.9",
+        "BX-48"
+      ]
+    },
+    {
+      "id": 40,
+      "slug": "b0gn3g57t5",
+      "asin": "B0GN3G57T5",
+      "name": "BX-48-02 Shark Edge",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 18.92,
+      "shipping_jp_eur": 21.33,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 18.92
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48-02 Shark Edge",
+        "BX-48-02"
+      ]
+    },
+    {
+      "id": 44,
+      "slug": "b0gn3gt7bc",
+      "asin": "B0GN3GT7BC",
+      "name": "BX-48-03 Mammoth Stask",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 16.69,
+      "shipping_jp_eur": 21.33,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 16.69
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48-03 Mammoth Stask",
+        "BX-48-03"
+      ]
+    },
+    {
+      "id": 41,
+      "slug": "b0gn32y91s",
+      "asin": "B0GN32Y91S",
+      "name": "BX-48-04 HZ Size",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 12.22,
+      "shipping_jp_eur": 21.33,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 12.22
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48-04 HZ Size",
+        "BX-48-04"
+      ]
+    },
+    {
+      "id": 39,
+      "slug": "b0gn3tsfjg",
+      "asin": "B0GN3TSFJG",
+      "name": "BX-48-05 Drumbuster",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 11.72,
+      "shipping_jp_eur": 21.33,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 11.72
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48-05 Drumbuster",
+        "BX-48-05"
+      ]
+    },
     {
       "id": 28,
       "slug": "b0g5d842sq",
@@ -1628,6 +2244,258 @@
       ]
     },
     {
+      "id": 57,
+      "slug": "b0dn6xn4w4",
+      "asin": "B0DN6XN4W4",
+      "name": "CX-03 Starter Antler Stag B 2-60HN",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 29.47,
+      "shipping_jp_eur": 22.4,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Wadoh Store",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 29.47
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-03 Starter Antler Stag B 2-60HN",
+        "CX-03"
+      ]
+    },
+    {
+      "id": 64,
+      "slug": "b0f1fk545v",
+      "asin": "B0F1FK545V",
+      "name": "CX-05 Rare Rhino Reaper C4-55D",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 14.4,
+      "shipping_jp_eur": 21.18,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 14.4
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-05 Rare Rhino Reaper C4-55D",
+        "CX-05-R2"
+      ]
+    },
+    {
+      "id": 58,
+      "slug": "b0dn6x5fgh",
+      "asin": "B0DN6X5FGH",
+      "name": "CX-05 Starter Shinigami Insencio T 4-70K",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 26.68,
+      "shipping_jp_eur": 21.91,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "BLUEK",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 26.68
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-05 Starter Shinigami Insencio T 4-70K",
+        "CX-05"
+      ]
+    },
+    {
+      "id": 68,
+      "slug": "b0fnps7g5j",
+      "asin": "B0FNPS7G5J",
+      "name": "CX-05-01 HellsReaper T4-70K",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 44.54,
+      "shipping_jp_eur": 22.49,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 44.54
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-05-01 HellsReaper T4-70K",
+        "CX-05-01"
+      ]
+    },
+    {
+      "id": 60,
+      "slug": "b0dn6x2p4s",
+      "asin": "B0DN6X2P4S",
+      "name": "CX-06 Starter Dark Perseus B 6-80W",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 21.71,
+      "shipping_jp_eur": 21.45,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Wadoh Store",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 21.71
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-06 Starter Dark Perseus B 6-80W",
+        "CX-06"
+      ]
+    },
+    {
+      "id": 56,
+      "slug": "b0fhpwl6z3",
+      "asin": "B0FHPWL6Z3",
+      "name": "CX-06-01 Fox Blush J9-70GR",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 26.18,
+      "shipping_jp_eur": 21.41,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 26.18
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-06-01 Fox Blush J9-70GR",
+        "CX-06-01"
+      ]
+    },
+    {
+      "id": 51,
+      "slug": "b0g3ys31sn",
+      "asin": "B0G3YS31SN",
+      "name": "CX-08 Random Booster Vol.7",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 10.88,
+      "shipping_jp_eur": 22.74,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 10.88
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-08 Random Booster Vol.7",
+        "CX-08"
+      ]
+    },
+    {
+      "id": 66,
+      "slug": "b0ftfchtnl",
+      "asin": "B0FTFCHTNL",
+      "name": "CX-08-01 Cerberus Flame W5-80WB",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 37.96,
+      "shipping_jp_eur": 22.74,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 37.96
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-08-01 Cerberus Flame W5-80WB",
+        "CX-08-01"
+      ]
+    },
+    {
+      "id": 63,
+      "slug": "b0fkryltns",
+      "asin": "B0FKRYLTNS",
+      "name": "CX-08-03 Cerberus Dark W1-60F",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 16.63,
+      "shipping_jp_eur": 22.74,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 16.63
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-08-03 Cerberus Dark W1-60F",
+        "CX-08-03"
+      ]
+    },
+    {
       "id": 34,
       "slug": "b0gmdys21k",
       "asin": "B0GMDYS21K",
@@ -1733,6 +2601,202 @@
       "search_terms": [
         "Starter Dash Set C",
         "CX-16"
+      ]
+    },
+    {
+      "id": 61,
+      "slug": "b0d88f42dh",
+      "asin": "B0D88F42DH",
+      "name": "UX-04 Starter Wand Wizard 5-70DB",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 22.22,
+      "shipping_jp_eur": 21.68,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "パンサラッサ・ワークス",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 22.22
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-04 Starter Wand Wizard 5-70DB",
+        "UX-04"
+      ]
+    },
+    {
+      "id": 62,
+      "slug": "b0d9z2yfp3",
+      "asin": "B0D9Z2YFP3",
+      "name": "UX-05 Booster Keel Shark 1-60Q",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 20.6,
+      "shipping_jp_eur": 20.9,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Wadoh Store",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 20.6
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-05 Booster Keel Shark 1-60Q",
+        "UX-05"
+      ]
+    },
+    {
+      "id": 59,
+      "slug": "b0d9zqv5r4",
+      "asin": "B0D9ZQV5R4",
+      "name": "UX-06 Booster Arrow Wizard 4-80GB",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 17.81,
+      "shipping_jp_eur": 20.94,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "にゃんころSTORE",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 17.81
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-06 Booster Arrow Wizard 4-80GB",
+        "UX-06"
+      ]
+    },
+    {
+      "id": 70,
+      "slug": "b0gcgxg6ns",
+      "asin": "B0GCGXG6NS",
+      "name": "UX-18 Complete Set (6 Types)",
+      "name_it": null,
+      "category": "Set",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 61.4,
+      "shipping_jp_eur": 24.77,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 61.4
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18 Complete Set (6 Types)",
+        "UX-18-SET"
+      ]
+    },
+    {
+      "id": 45,
+      "slug": "b0g27q8xx3",
+      "asin": "B0G27Q8XX3",
+      "name": "UX-18-01 Mummy Cars 4-60C [Rare]",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 16.63,
+      "shipping_jp_eur": 22.74,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 16.63
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18-01 Mummy Cars 4-60C [Rare]",
+        "UX-18-01"
+      ]
+    },
+    {
+      "id": 43,
+      "slug": "b0gchtvl3v",
+      "asin": "B0GCHTVL3V",
+      "name": "UX-18-03 Booster Pegasus 5-80GN",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 8.87,
+      "shipping_jp_eur": 21.41,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 8.87
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18-03 Booster Pegasus 5-80GN",
+        "UX-18-03"
+      ]
+    },
+    {
+      "id": 42,
+      "slug": "b0gch3sfg6",
+      "asin": "B0GCH3SFG6",
+      "name": "UX-18-04 Solbrave C9-70TP",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 8.32,
+      "shipping_jp_eur": 21.33,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 8.32
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18-04 Solbrave C9-70TP",
+        "UX-18-04"
       ]
     }
   ],
