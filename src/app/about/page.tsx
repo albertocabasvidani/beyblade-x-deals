@@ -30,7 +30,7 @@ const faqJsonLd = {
       name: 'Perché non trovo un certo Beyblade X sul sito?',
       acceptedAnswer: {
         '@type': 'Answer',
-        text: 'BX Deals mostra solo i Beyblade venduti e spediti direttamente da Amazon (FBA) in Italia. Se un prodotto non è presente, probabilmente non è disponibile come FBA su Amazon JP o non viene spedito in Italia.',
+        text: 'BX Deals mostra solo i Beyblade spediti da Amazon (FBA) in Italia. Se un prodotto non è presente, probabilmente non è disponibile come FBA su Amazon JP o non viene spedito in Italia.',
       },
     },
     {
@@ -82,7 +82,7 @@ export default function AboutPage() {
               <div>
                 <strong>Cerca i prodotti</strong>
                 <p className="mt-0.5 text-slate-600">
-                  Sfoglia il catalogo: trovi solo i Beyblade che Amazon Giappone vende e spedisce in Italia (FBA).
+                  Sfoglia il catalogo: trovi solo i Beyblade spediti da Amazon Giappone in Italia (FBA).
                 </p>
               </div>
             </li>
@@ -149,8 +149,8 @@ export default function AboutPage() {
         <section>
           <h2 className="mb-2 text-lg font-semibold text-slate-900">Perch&eacute; non trovo il Beyblade X o Y?</h2>
           <p>
-            Su BX Deals trovi <strong>solo i Beyblade venduti e spediti da Amazon</strong> (FBA)
-            direttamente in Italia. Sono quelli su cui il risparmio &egrave; maggiore e la spedizione
+            Su BX Deals trovi <strong>solo i Beyblade spediti da Amazon</strong> (FBA)
+            in Italia. Sono quelli su cui il risparmio &egrave; maggiore e la spedizione
             consolidata funziona davvero.
           </p>
           <p className="mt-2">
