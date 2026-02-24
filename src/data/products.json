@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-24T10:51:30.625Z",
+  "exportedAt": "2026-02-24T11:02:59.707Z",
   "exchangeRate": {
     "jpy_eur": 0.00548,
     "fetchedAt": "2026-02-24 10:51:22"
@@ -686,6 +686,66 @@
       ]
     },
     {
+      "id": 39,
+      "slug": "b0gn3tsfjg",
+      "asin": "B0GN3TSFJG",
+      "name": "BX-48-05 Drumbuster",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61LajCnsUQL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 11.74,
+      "shipping_jp_eur": 21.37,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 11.72
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 11.74
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48-05 Drumbuster",
+        "BX-48-05"
+      ]
+    },
+    {
+      "id": 78,
+      "slug": "b0dp8ycclp",
+      "asin": "B0DP8YCCLP",
+      "name": "Beyblade X BX-00 Booster Draciel Shield 7-60D",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 13.98,
+      "shipping_jp_eur": 21.22,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-24",
+          "price_eur": 13.98
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "Draciel Shield",
+        "BX-00 Draciel"
+      ]
+    },
+    {
       "id": 28,
       "slug": "b0g5d842sq",
       "asin": "B0G5D842SQ",
@@ -921,6 +981,34 @@
       "search_terms": [
         "String Launcher",
         "BX-18"
+      ]
+    },
+    {
+      "id": 75,
+      "slug": "b0cmzsrj3q",
+      "asin": "B0CMZSRJ3Q",
+      "name": "Beyblade X BX-23 Starter Phoenix Wing 9-60GF Metal",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 13.03,
+      "shipping_jp_eur": 23.05,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-24",
+          "price_eur": 13.03
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "Phoenix Wing",
+        "BX-23"
       ]
     },
     {
@@ -1182,6 +1270,43 @@
       ]
     },
     {
+      "id": 21,
+      "slug": "b0dws96t4f",
+      "asin": "B0DWS96T4F",
+      "name": "Beyblade X BX-41 Rubber Custom Grip Gunmetal",
+      "name_it": null,
+      "category": "Accessory",
+      "image_url": "https://m.media-amazon.com/images/I/51nupFqvG0L._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 5.03,
+      "shipping_jp_eur": 21.64,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon",
+      "price_it_eur": 23.81,
+      "savings_eur": 18.78,
+      "savings_pct": 78.9,
+      "price_history_jp": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 5.03
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 5.03
+        }
+      ],
+      "price_history_it": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 23.81
+        }
+      ],
+      "search_terms": [
+        "Custom Grip",
+        "BX-41"
+      ]
+    },
+    {
       "id": 16,
       "slug": "b0fnm2mzdb",
       "asin": "B0FNM2MZDB",
@@ -1297,6 +1422,62 @@
       "search_terms": [
         "String Launcher Red",
         "BX-47"
+      ]
+    },
+    {
+      "id": 77,
+      "slug": "b0gn3fttjl",
+      "asin": "B0GN3FTTJL",
+      "name": "Beyblade X BX-48 Random Booster Vol.9 Complete Set",
+      "name_it": null,
+      "category": "Set",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 61.52,
+      "shipping_jp_eur": 24.08,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-24",
+          "price_eur": 61.52
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48 Complete Set",
+        "BX-48"
+      ]
+    },
+    {
+      "id": 76,
+      "slug": "b0gn379tv5",
+      "asin": "B0GN379TV5",
+      "name": "Beyblade X BX-48-01 Cobalt Dragoon 9-80F",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 16.72,
+      "shipping_jp_eur": 21.37,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-24",
+          "price_eur": 16.72
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "Cobalt Dragoon Black",
+        "BX-48-01"
       ]
     },
     {
@@ -1682,6 +1863,67 @@
       "search_terms": [
         "Wolf Hunt",
         "CX-10"
+      ]
+    },
+    {
+      "id": 17,
+      "slug": "b0fv6y4mh4",
+      "asin": "B0FV6Y4MH4",
+      "name": "Beyblade X CX-11 Emperor Might Deck Set",
+      "name_it": null,
+      "category": "Set",
+      "image_url": "https://m.media-amazon.com/images/I/61WEAT7WNKL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 27.97,
+      "shipping_jp_eur": 23.64,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon",
+      "price_it_eur": 67.75,
+      "savings_eur": 39.78,
+      "savings_pct": 58.7,
+      "price_history_jp": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 27.94
+        },
+        {
+          "date": "2026-02-15",
+          "price_eur": 28.14
+        },
+        {
+          "date": "2026-02-17",
+          "price_eur": 28.53
+        },
+        {
+          "date": "2026-02-20",
+          "price_eur": 27.96
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 27.97
+        }
+      ],
+      "price_history_it": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 17.95
+        },
+        {
+          "date": "2026-02-11",
+          "price_eur": 31.94
+        },
+        {
+          "date": "2026-02-17",
+          "price_eur": 62.22
+        },
+        {
+          "date": "2026-02-20",
+          "price_eur": 67.75
+        }
+      ],
+      "search_terms": [
+        "Emperor Might",
+        "CX-11"
       ]
     },
     {
@@ -2104,6 +2346,34 @@
       "search_terms": [
         "Random Booster Vol 8",
         "UX-18"
+      ]
+    },
+    {
+      "id": 79,
+      "slug": "b0g27mrh8b",
+      "asin": "B0G27MRH8B",
+      "name": "Beyblade X UX-18-04 Booster Solbrave C9-70TP",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/318oXxLPCqL._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 8.95,
+      "shipping_jp_eur": 22.78,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-24",
+          "price_eur": 8.95
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18-04 Solbrave",
+        "UX-18-04"
       ]
     },
     {
@@ -2700,6 +2970,7 @@
     }
   ],
   "categories": [
+    "Accessory",
     "Beyblade",
     "Launcher",
     "Set",
