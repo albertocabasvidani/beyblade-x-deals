@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-02-24T11:04:50.017Z",
+  "exportedAt": "2026-02-24T11:29:01.152Z",
   "exchangeRate": {
     "jpy_eur": 0.00548,
     "fetchedAt": "2026-02-24 10:51:22"
@@ -2292,13 +2292,13 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61bFFvQNM2L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 8.02,
+      "price_jp_eur": 8.09,
       "shipping_jp_eur": 21.41,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": 35.82,
-      "savings_eur": 27.8,
-      "savings_pct": 77.6,
+      "savings_eur": 27.73,
+      "savings_pct": 77.4,
       "price_history_jp": [
         {
           "date": "2026-02-09",
@@ -2322,7 +2322,7 @@
         },
         {
           "date": "2026-02-24",
-          "price_eur": 8.02
+          "price_eur": 8.09
         }
       ],
       "price_history_it": [
