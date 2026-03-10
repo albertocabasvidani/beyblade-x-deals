@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-03-09T15:03:57.559Z",
+  "exportedAt": "2026-03-10T10:29:36.561Z",
   "exchangeRate": {
     "jpy_eur": 0.00542,
     "fetchedAt": "2026-02-27 14:55:42"
@@ -14,8 +14,8 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/81Z1ubxBcbL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 45.8,
-      "shipping_jp_eur": 22.36,
+      "price_jp_eur": 45.79,
+      "shipping_jp_eur": 22.35,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -65,13 +65,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 45.8
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 45.79
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-00 Transformers Optimus Prime vs Megatron",
         "BX-00-TF"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 69,
@@ -82,10 +89,10 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/81ewQBMfpJL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 26.67,
-      "shipping_jp_eur": 21.36,
+      "price_jp_eur": 27.08,
+      "shipping_jp_eur": 21.7,
       "fulfilled_by_amazon": true,
-      "seller_jp": "Amazon.co.jp",
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -129,13 +136,20 @@
         {
           "date": "2026-03-06",
           "price_eur": 26.67
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 27.08
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-02 Dual Pack Gail Wyvern & Sword Dran",
         "BX-02"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 72,
@@ -171,7 +185,10 @@
       "search_terms": [
         "BX-07 Start Dash Set",
         "BX-07"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 38,
@@ -182,8 +199,8 @@
       "category": "Stadium",
       "image_url": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 12.2,
-      "shipping_jp_eur": 57.34,
+      "price_jp_eur": 12.24,
+      "shipping_jp_eur": 57.33,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -217,13 +234,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 12.2
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 12.24
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-10 Extreme Stadium",
         "BX-10"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 54,
@@ -234,10 +258,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/41C4Jn0kq-L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 19.41,
-      "shipping_jp_eur": 21.33,
+      "price_jp_eur": 19.77,
+      "shipping_jp_eur": 21.73,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -285,13 +309,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 19.41
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 19.77
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-14-02 Shark Edge 4-80N",
         "BX-14-02"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 52,
@@ -302,10 +333,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/41azyRP9c6L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 11.1,
-      "shipping_jp_eur": 21.43,
+      "price_jp_eur": 11.28,
+      "shipping_jp_eur": 21.77,
       "fulfilled_by_amazon": true,
-      "seller_jp": "Amazon.co.jp",
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -349,13 +380,20 @@
         {
           "date": "2026-03-06",
           "price_eur": 11.1
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 11.28
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-14-03 D-Randsword 3-80B",
         "BX-14-03"
-      ]
+      ],
+      "resale_eur": 18,
+      "resale_url": "https://www.vinted.it/items/8267800185-beyblade-x-bx-14-03-dran-sword-3-80b-takara-tomy",
+      "resale_hearts": 0
     },
     {
       "id": 55,
@@ -387,7 +425,10 @@
       "search_terms": [
         "BX-14-05 Night Shield 4-60LF",
         "BX-14-05"
-      ]
+      ],
+      "resale_eur": 16,
+      "resale_url": "https://www.vinted.it/items/7058409091-beyblade-x-takara-tomy-bx-14-05-booster-knight-shield-4-60l-takara-tomy-original",
+      "resale_hearts": 7
     },
     {
       "id": 53,
@@ -435,7 +476,10 @@
       "search_terms": [
         "BX-14-06 Wizard Arrow 3-60T",
         "BX-14-06"
-      ]
+      ],
+      "resale_eur": 20,
+      "resale_url": "https://www.vinted.it/items/4322904574-beyblade-x-bx-14-06-wizardarrow",
+      "resale_hearts": 18
     },
     {
       "id": 46,
@@ -501,13 +545,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 9.9
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 9.9
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-19 Starter Rhino Horn 3-80S",
         "BX-19"
-      ]
+      ],
+      "resale_eur": 9,
+      "resale_url": "https://www.vinted.it/items/7968705701-beyblade-x-takara-tomy-booster-bx-19-rhino-horn-3-80s",
+      "resale_hearts": 3
     },
     {
       "id": 50,
@@ -518,7 +569,7 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/61X6nIdSifL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 35.05,
+      "price_jp_eur": 35.04,
       "shipping_jp_eur": 23.71,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -569,13 +620,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 35.05
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 35.04
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-21 Hellz Chain Deck Set",
         "BX-21"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 49,
@@ -637,13 +695,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 15.24
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 15.24
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-24 Random Booster Vol.2",
         "BX-24"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 65,
@@ -654,8 +719,8 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61wLTzK-PHL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 10.95,
-      "shipping_jp_eur": 21.61,
+      "price_jp_eur": 11.22,
+      "shipping_jp_eur": 22.15,
       "fulfilled_by_amazon": true,
       "seller_jp": "Amazon",
       "price_it_eur": null,
@@ -693,13 +758,20 @@
         {
           "date": "2026-03-05",
           "price_eur": 10.95
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 11.22
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-26 Booster Unicorn Sting 5-60GP",
         "BX-26"
-      ]
+      ],
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8325551059-beyblade-x-bx-26-unicorn-sting-5-60gp",
+      "resale_hearts": 3
     },
     {
       "id": 73,
@@ -710,7 +782,7 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/81+Q7d37iIL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 29.93,
+      "price_jp_eur": 29.92,
       "shipping_jp_eur": 21.43,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -761,13 +833,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 29.93
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 29.92
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-27 Dual Pack Gail Wyvern & Tail Viper",
         "BX-27"
-      ]
+      ],
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/6573481343-beyblade-x-bx-27",
+      "resale_hearts": 12
     },
     {
       "id": 74,
@@ -778,7 +857,7 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/81t44FR1lIL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 25.48,
+      "price_jp_eur": 25.47,
       "shipping_jp_eur": 21.34,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -829,13 +908,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 25.48
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 25.47
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-28 Dual Pack Yell Kong & HelmKnight",
         "BX-28"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 48,
@@ -846,8 +932,8 @@
       "category": "Stadium",
       "image_url": "https://m.media-amazon.com/images/I/611eYwWAd8L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 49.44,
-      "shipping_jp_eur": 64.84,
+      "price_jp_eur": 48.95,
+      "shipping_jp_eur": 64.83,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -897,13 +983,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 49.44
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 48.95
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-37 Double Extreme Stadium Set",
         "BX-37"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 47,
@@ -915,7 +1008,7 @@
       "image_url": "https://m.media-amazon.com/images/I/51tLLvv212L._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 3.29,
-      "shipping_jp_eur": 23.55,
+      "shipping_jp_eur": 23.54,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -965,13 +1058,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 3.29
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 3.29
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-47 String Launcher L Red",
         "BX-47"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 37,
@@ -983,7 +1083,7 @@
       "image_url": "https://m.media-amazon.com/images/I/61D91mQOqYL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 7.53,
-      "shipping_jp_eur": 21.28,
+      "shipping_jp_eur": 21.32,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -1033,13 +1133,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 7.53
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 7.53
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-48 Random Booster Vol.9",
         "BX-48"
-      ]
+      ],
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8332548898-bx-48-random-booster-vol9-beyblade-x-takara-tomy",
+      "resale_hearts": 5
     },
     {
       "id": 81,
@@ -1050,10 +1157,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/51gijsYjh2L._AC_.jpg",
       "available_jp": true,
-      "price_jp_eur": 13.24,
-      "shipping_jp_eur": 22.66,
+      "price_jp_eur": 13.49,
+      "shipping_jp_eur": 23.08,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -1089,13 +1196,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 13.24
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 13.49
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-48 Cobalt Dragoon Rare",
         "BX-48 Rare"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 44,
@@ -1157,13 +1271,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 14.96
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 14.96
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-48-03 Mammoth Stask",
         "BX-48-03"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 41,
@@ -1225,13 +1346,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 11.07
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 11.07
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-48-04 HZ Size",
         "BX-48-04"
-      ]
+      ],
+      "resale_eur": 15,
+      "resale_url": "https://www.vinted.it/items/8325210429-beyblade-x-bx-48-04-hellsscythe-3-85gb",
+      "resale_hearts": 8
     },
     {
       "id": 39,
@@ -1271,7 +1399,10 @@
       "search_terms": [
         "BX-48-05 Drumbuster",
         "BX-48-05"
-      ]
+      ],
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8216917601-bx-48-05-dranbuster-2-80q-metal-coat-red",
+      "resale_hearts": 2
     },
     {
       "id": 87,
@@ -1282,10 +1413,10 @@
       "category": "Booster",
       "image_url": null,
       "available_jp": true,
-      "price_jp_eur": 13.43,
-      "shipping_jp_eur": 21.5,
+      "price_jp_eur": 10.85,
+      "shipping_jp_eur": 21.14,
       "fulfilled_by_amazon": true,
-      "seller_jp": "Amazon",
+      "seller_jp": null,
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -1293,12 +1424,19 @@
         {
           "date": "2026-03-04",
           "price_eur": 13.43
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 10.85
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Draciel Shield"
-      ]
+      ],
+      "resale_eur": 36,
+      "resale_url": "https://www.vinted.it/items/8249191171-draciel-shield-7-60d-bx-00-beyblade-x",
+      "resale_hearts": 5
     },
     {
       "id": 82,
@@ -1326,7 +1464,10 @@
       "search_terms": [
         "BX-00",
         "Dragoon Storm"
-      ]
+      ],
+      "resale_eur": 30,
+      "resale_url": "https://www.vinted.it/items/8249169814-dragoon-storm-4-60ra-bx-00-beyblade-x",
+      "resale_hearts": 13
     },
     {
       "id": 28,
@@ -1388,7 +1529,10 @@
         "Dryger Slash",
         "BX-00 Dryger",
         "Driger Slash"
-      ]
+      ],
+      "resale_eur": 23,
+      "resale_url": "https://www.vinted.it/items/8284862604-beyblade-x-driger-slash-takara-tomy-neuf",
+      "resale_hearts": 3
     },
     {
       "id": 15,
@@ -1400,7 +1544,7 @@
       "image_url": "https://m.media-amazon.com/images/I/71b9UJcKGjL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 13.91,
-      "shipping_jp_eur": 21.27,
+      "shipping_jp_eur": 21.26,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 32.5,
@@ -1426,6 +1570,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 13.91
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 13.91
         }
       ],
       "price_history_it": [
@@ -1438,7 +1586,10 @@
         "Lightning EL Drago",
         "BX-00",
         "L Drago"
-      ]
+      ],
+      "resale_eur": 54.9,
+      "resale_url": "https://www.vinted.it/items/8284770331-takara-tomy-beyblade-x-lightning-l-drago-1-60f-bx-00-aus-japan-neu-ovp",
+      "resale_hearts": 9
     },
     {
       "id": 12,
@@ -1450,7 +1601,7 @@
       "image_url": "https://m.media-amazon.com/images/I/6123No2dRdL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 6.94,
-      "shipping_jp_eur": 22.45,
+      "shipping_jp_eur": 22.44,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 18.15,
@@ -1516,6 +1667,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 6.94
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 6.94
         }
       ],
       "price_history_it": [
@@ -1540,7 +1695,10 @@
         "Dran Sword",
         "BX-01",
         "Sword Dran"
-      ]
+      ],
+      "resale_eur": 6,
+      "resale_url": "https://www.vinted.it/items/8134686819-sword-dran-3-60f-beyblade-x-launcher",
+      "resale_hearts": 4
     },
     {
       "id": 84,
@@ -1568,7 +1726,10 @@
       "search_terms": [
         "BX-02",
         "Hells Scythe"
-      ]
+      ],
+      "resale_eur": 9.95,
+      "resale_url": "https://www.vinted.it/items/8335910520-beyblade-x-scythe-incendio-4-60t",
+      "resale_hearts": 0
     },
     {
       "id": 18,
@@ -1579,13 +1740,13 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/51BbPk+4XdL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 14.76,
-      "shipping_jp_eur": 21.42,
+      "price_jp_eur": 14.36,
+      "shipping_jp_eur": 21.41,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 25.71,
-      "savings_eur": 10.95,
-      "savings_pct": 42.6,
+      "savings_eur": 11.35,
+      "savings_pct": 44.1,
       "price_history_jp": [
         {
           "date": "2026-02-09",
@@ -1642,6 +1803,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 14.76
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 14.36
         }
       ],
       "price_history_it": [
@@ -1661,7 +1826,10 @@
       "search_terms": [
         "Bay Battle Pass",
         "BX-09"
-      ]
+      ],
+      "resale_eur": 34.9,
+      "resale_url": "https://www.vinted.it/items/8334133706-beyblade-x-beybattlepass-bx-09",
+      "resale_hearts": 15
     },
     {
       "id": 25,
@@ -1719,6 +1887,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 7.18
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 7.18
         }
       ],
       "price_history_it": [
@@ -1742,7 +1914,10 @@
       "search_terms": [
         "Deck Case",
         "BX-12"
-      ]
+      ],
+      "resale_eur": 23,
+      "resale_url": "https://www.vinted.it/items/8302374343-deck-case-3on3-bx-12-beyblade-x",
+      "resale_hearts": 1
     },
     {
       "id": 27,
@@ -1791,7 +1966,10 @@
       "search_terms": [
         "String Launcher",
         "BX-18"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 75,
@@ -1802,7 +1980,7 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/715NtHVPy-L._AC_SX679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 13.07,
+      "price_jp_eur": 13.29,
       "shipping_jp_eur": 22.93,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -1849,13 +2027,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 13.07
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 13.29
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Phoenix Wing",
         "BX-23"
-      ]
+      ],
+      "resale_eur": 8,
+      "resale_url": "https://www.vinted.it/items/8318700126-phoenix-wing-beyblade-x",
+      "resale_hearts": 10
     },
     {
       "id": 24,
@@ -1893,6 +2078,10 @@
         {
           "date": "2026-03-04",
           "price_eur": 15.97
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 15.97
         }
       ],
       "price_history_it": [
@@ -1916,7 +2105,10 @@
       "search_terms": [
         "Gear Case",
         "BX-25"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 20,
@@ -1953,7 +2145,10 @@
       "search_terms": [
         "String Launcher",
         "BX-28"
-      ]
+      ],
+      "resale_eur": 5,
+      "resale_url": "https://www.vinted.it/items/8269229129-slip-grip-string-launcher-beyblade-x",
+      "resale_hearts": 3
     },
     {
       "id": 88,
@@ -1981,7 +2176,10 @@
       "search_terms": [
         "BX-30",
         "Custom Grip Red"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 93,
@@ -2003,13 +2201,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 25.03
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 25.03
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-31 Random Booster beyblade",
         "BX-31"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 26,
@@ -2021,7 +2226,7 @@
       "image_url": "https://m.media-amazon.com/images/I/517cbQWO7qL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 16.44,
-      "shipping_jp_eur": 91.73,
+      "shipping_jp_eur": 91.72,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 69.99,
@@ -2051,6 +2256,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 16.44
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 16.44
         }
       ],
       "price_history_it": [
@@ -2071,7 +2280,10 @@
         "Extreme Stadium",
         "BX-32",
         "Stadium Beyblade X"
-      ]
+      ],
+      "resale_eur": 80,
+      "resale_url": "https://www.vinted.it/items/7740434194-beyblade-x-bx-32-wide-beystadium",
+      "resale_hearts": 26
     },
     {
       "id": 14,
@@ -2145,6 +2357,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 12.78
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 12.78
         }
       ],
       "price_history_it": [
@@ -2168,7 +2384,10 @@
       "search_terms": [
         "Cobalt Dragoon",
         "BX-34"
-      ]
+      ],
+      "resale_eur": 30,
+      "resale_url": "https://www.vinted.it/items/8310252147-cobalt-dragoon-2-60c-bx-34-beyblade-x",
+      "resale_hearts": 9
     },
     {
       "id": 86,
@@ -2200,7 +2419,10 @@
       "search_terms": [
         "BX-35",
         "Random Booster Vol 4"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 13,
@@ -2282,7 +2504,10 @@
         "Whale Wave",
         "BX-36",
         "Tide Whale"
-      ]
+      ],
+      "resale_eur": 6.9,
+      "resale_url": "https://www.vinted.it/items/8326220036-whale-wave-beyblade-x",
+      "resale_hearts": 10
     },
     {
       "id": 33,
@@ -2344,7 +2569,42 @@
         "Crimson Garuda",
         "BX-38",
         "Scarlet Garuda"
-      ]
+      ],
+      "resale_eur": 10,
+      "resale_url": "https://www.vinted.it/items/7990907062-beyblade-x-crimsongaruda-4-70-tp",
+      "resale_hearts": 11
+    },
+    {
+      "id": 95,
+      "slug": "b0dskdbftd",
+      "asin": "B0DSKDBFTD",
+      "name": "Beyblade X BX-39 Random Booster Shelter Drake Select",
+      "name_it": null,
+      "category": "Booster",
+      "image_url": null,
+      "available_jp": true,
+      "price_jp_eur": 12.01,
+      "shipping_jp_eur": 21.44,
+      "fulfilled_by_amazon": true,
+      "seller_jp": null,
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-10",
+          "price_eur": 12.01
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-39 Shelter Drake beyblade",
+        "Shelter Drake BX-39",
+        "BX-39 beyblade"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 19,
@@ -2418,6 +2678,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 3.42
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 3.42
         }
       ],
       "price_history_it": [
@@ -2441,7 +2705,10 @@
       "search_terms": [
         "Winder Launcher",
         "BX-40"
-      ]
+      ],
+      "resale_eur": 6,
+      "resale_url": "https://www.vinted.it/items/8009936726-beyblade-x-winder-launcher-takara-tomy",
+      "resale_hearts": 8
     },
     {
       "id": 21,
@@ -2482,7 +2749,10 @@
       "search_terms": [
         "Custom Grip",
         "BX-41"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 22,
@@ -2493,13 +2763,13 @@
       "category": "Accessory",
       "image_url": "https://m.media-amazon.com/images/I/61mZ7W9rbsL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 5.07,
-      "shipping_jp_eur": 21.7,
+      "price_jp_eur": 5.15,
+      "shipping_jp_eur": 22.05,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": 26.08,
-      "savings_eur": 21.01,
-      "savings_pct": 80.6,
+      "savings_eur": 20.93,
+      "savings_pct": 80.3,
       "price_history_jp": [
         {
           "date": "2026-02-09",
@@ -2524,6 +2794,10 @@
         {
           "date": "2026-03-05",
           "price_eur": 5.07
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 5.15
         }
       ],
       "price_history_it": [
@@ -2547,7 +2821,10 @@
       "search_terms": [
         "Custom Grip Blue",
         "BX-42"
-      ]
+      ],
+      "resale_eur": 23,
+      "resale_url": "https://www.vinted.it/items/8253115699-beyblade-x-bx-42-agarre-personalizado-de-goma-azul",
+      "resale_hearts": 6
     },
     {
       "id": 23,
@@ -2559,7 +2836,7 @@
       "image_url": "https://m.media-amazon.com/images/I/511H5QhxO+L._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 15.68,
-      "shipping_jp_eur": 31.43,
+      "shipping_jp_eur": 31.42,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 65.26,
@@ -2597,6 +2874,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 15.68
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 15.68
         }
       ],
       "price_history_it": [
@@ -2620,7 +2901,10 @@
       "search_terms": [
         "Gear Case White",
         "BX-43"
-      ]
+      ],
+      "resale_eur": 40,
+      "resale_url": "https://www.vinted.it/items/8284788544-beyblade-x-officil-gear-case-white",
+      "resale_hearts": 23
     },
     {
       "id": 16,
@@ -2632,7 +2916,7 @@
       "image_url": "https://m.media-amazon.com/images/I/617aJK-SJDL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 32.71,
-      "shipping_jp_eur": 79.81,
+      "shipping_jp_eur": 79.8,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 244,
@@ -2694,6 +2978,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 32.71
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 32.71
         }
       ],
       "price_history_it": [
@@ -2717,7 +3005,10 @@
       "search_terms": [
         "Battle Entry Set",
         "BX-46"
-      ]
+      ],
+      "resale_eur": 110,
+      "resale_url": "https://www.vinted.it/items/7333273071-beyblade-x-bx-46-battle-entry-set-stadium",
+      "resale_hearts": 26
     },
     {
       "id": 29,
@@ -2770,7 +3061,10 @@
       "search_terms": [
         "String Launcher Red",
         "BX-47"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 77,
@@ -2781,7 +3075,7 @@
       "category": "Set",
       "image_url": null,
       "available_jp": true,
-      "price_jp_eur": 61.19,
+      "price_jp_eur": 61.18,
       "shipping_jp_eur": 24.81,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -2812,13 +3106,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 61.19
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 61.18
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "BX-48 Complete Set",
         "BX-48"
-      ]
+      ],
+      "resale_eur": 118,
+      "resale_url": "https://www.vinted.it/items/8273326478-beyblade-x-bx-48-random-booster-full-set-sealed",
+      "resale_hearts": 10
     },
     {
       "id": 76,
@@ -2829,10 +3130,10 @@
       "category": "Beyblade",
       "image_url": null,
       "available_jp": true,
-      "price_jp_eur": 16.12,
-      "shipping_jp_eur": 21.32,
+      "price_jp_eur": 16.37,
+      "shipping_jp_eur": 21.66,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -2852,13 +3153,20 @@
         {
           "date": "2026-03-05",
           "price_eur": 16.12
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 16.37
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Cobalt Dragoon Black",
         "BX-48-01"
-      ]
+      ],
+      "resale_eur": 35,
+      "resale_url": "https://www.vinted.it/items/8257530439-black-cobalt-dragoon-9-80-flat",
+      "resale_hearts": 6
     },
     {
       "id": 90,
@@ -2869,7 +3177,7 @@
       "category": "Starter",
       "image_url": "https://m.media-amazon.com/images/I/71yR4L3yA9L._AC_SX679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 25.48,
+      "price_jp_eur": 25.47,
       "shipping_jp_eur": 22.57,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -2884,13 +3192,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 25.48
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 25.47
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Arc Wizard beyblade",
         "CX Arc Wizard"
-      ]
+      ],
+      "resale_eur": 14.5,
+      "resale_url": "https://www.vinted.it/items/8306808820-beyblade-x-arc-wizard-r4-55lo",
+      "resale_hearts": 0
     },
     {
       "id": 9,
@@ -2964,6 +3279,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 8.08
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 8.08
         }
       ],
       "price_history_it": [
@@ -2988,7 +3307,10 @@
         "Dran Brave",
         "CX-01",
         "Courage Dran"
-      ]
+      ],
+      "resale_eur": 16.99,
+      "resale_url": "https://www.vinted.it/items/8163972948-beyblade-x-cx-01",
+      "resale_hearts": 6
     },
     {
       "id": 32,
@@ -3050,7 +3372,10 @@
         "Wizard Arc",
         "CX-02",
         "Arc Wizard"
-      ]
+      ],
+      "resale_eur": 17,
+      "resale_url": "https://www.vinted.it/items/8345826399-beyblade-wizard-cx-02",
+      "resale_hearts": 3
     },
     {
       "id": 31,
@@ -3061,13 +3386,13 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/61RNnRJffxL._AC_SX679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 28.92,
-      "shipping_jp_eur": 63.48,
+      "price_jp_eur": 29.72,
+      "shipping_jp_eur": 64.48,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": 141.97,
-      "savings_eur": 113.05,
-      "savings_pct": 79.6,
+      "savings_eur": 112.25,
+      "savings_pct": 79.1,
       "price_history_jp": [
         {
           "date": "2026-02-09",
@@ -3116,6 +3441,10 @@
         {
           "date": "2026-03-05",
           "price_eur": 28.92
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 29.72
         }
       ],
       "price_history_it": [
@@ -3135,7 +3464,10 @@
       "search_terms": [
         "Battle Entry Set C",
         "CX-04"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 3,
@@ -3147,7 +3479,7 @@
       "image_url": "https://m.media-amazon.com/images/I/61+3io3McIL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 9.3,
-      "shipping_jp_eur": 22.75,
+      "shipping_jp_eur": 22.74,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 13.34,
@@ -3209,6 +3541,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 9.3
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 9.3
         }
       ],
       "price_history_it": [
@@ -3232,7 +3568,10 @@
       "search_terms": [
         "Pegasus Blast",
         "CX-07"
-      ]
+      ],
+      "resale_eur": 10,
+      "resale_url": "https://www.vinted.it/items/8270160091-beyblade-x-pegasus-blast-r3d",
+      "resale_hearts": 4
     },
     {
       "id": 8,
@@ -3306,6 +3645,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 9.79
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 9.79
         }
       ],
       "price_history_it": [
@@ -3330,7 +3673,10 @@
         "Sol Eclipse",
         "CX-09",
         "Sol-Eclipse"
-      ]
+      ],
+      "resale_eur": 12,
+      "resale_url": "https://www.vinted.it/items/8276114428-beyblade-x-sol-eclipse",
+      "resale_hearts": 2
     },
     {
       "id": 4,
@@ -3404,6 +3750,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 6.17
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 6.17
         }
       ],
       "price_history_it": [
@@ -3427,7 +3777,10 @@
       "search_terms": [
         "Wolf Hunt",
         "CX-10"
-      ]
+      ],
+      "resale_eur": 10.9,
+      "resale_url": "https://www.vinted.it/items/8310141792-wolf-hunt-0-60db-wolfhunt-no-assist-blade-free-beyblade-x",
+      "resale_hearts": 23
     },
     {
       "id": 17,
@@ -3488,7 +3841,10 @@
       "search_terms": [
         "Emperor Might",
         "CX-11"
-      ]
+      ],
+      "resale_eur": 15,
+      "resale_url": "https://www.vinted.it/items/8298703850-cxtop-beyblade-x-paralleli-cx11-emperormight-deck",
+      "resale_hearts": 1
     },
     {
       "id": 1,
@@ -3499,13 +3855,13 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 6.73,
-      "shipping_jp_eur": 21.51,
+      "price_jp_eur": 6.65,
+      "shipping_jp_eur": 21.5,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 39.64,
-      "savings_eur": 32.91,
-      "savings_pct": 83,
+      "savings_eur": 32.99,
+      "savings_pct": 83.2,
       "price_history_jp": [
         {
           "date": "2026-02-09",
@@ -3562,6 +3918,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 6.73
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 6.65
         }
       ],
       "price_history_it": [
@@ -3585,7 +3945,10 @@
       "search_terms": [
         "Phoenix Flare",
         "CX-12"
-      ]
+      ],
+      "resale_eur": 17.99,
+      "resale_url": "https://www.vinted.it/items/8162483915-beyblade-x-cx-12",
+      "resale_hearts": 22
     },
     {
       "id": 35,
@@ -3631,13 +3994,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 8.91
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 8.91
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Raguna Rage FE4-55Y",
         "CX-15"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 89,
@@ -3663,13 +4033,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 19.36
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 19.36
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Dagger Dran beyblade",
         "BX Dagger Dran"
-      ]
+      ],
+      "resale_eur": 15,
+      "resale_url": "https://www.vinted.it/items/8253945191-beyblade-x-dagger-dran-4-70q",
+      "resale_hearts": 7
     },
     {
       "id": 85,
@@ -3681,7 +4058,7 @@
       "image_url": "https://m.media-amazon.com/images/I/81gazOutLuL._AC_SX679_.jpg",
       "available_jp": true,
       "price_jp_eur": 66.64,
-      "shipping_jp_eur": 49.2,
+      "shipping_jp_eur": 49.19,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -3707,12 +4084,19 @@
         {
           "date": "2026-03-09",
           "price_eur": 66.64
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 66.64
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Drop Attack"
-      ]
+      ],
+      "resale_eur": 18,
+      "resale_url": "https://www.vinted.it/items/8337432200-beyblade-x-arena-drop-attack",
+      "resale_hearts": 11
     },
     {
       "id": 30,
@@ -3766,7 +4150,10 @@
         "Dran Buster",
         "UX-01",
         "Buster Dran"
-      ]
+      ],
+      "resale_eur": 14,
+      "resale_url": "https://www.vinted.it/items/8342985506-toupie-beyblade-x-buster-dran-ux-neuve-hasbro-tomy-takara-spinner-collection",
+      "resale_hearts": 8
     },
     {
       "id": 91,
@@ -3788,13 +4175,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 22.14
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 22.14
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "UX-03 Wizard Rod beyblade",
         "Wizard Rod 5-70DB"
-      ]
+      ],
+      "resale_eur": 15,
+      "resale_url": "https://www.vinted.it/items/8346024760-wizard-rod-5-70db",
+      "resale_hearts": 1
     },
     {
       "id": 5,
@@ -3852,7 +4246,10 @@
         "Silver Wolf",
         "UX-08",
         "Sterling Wolf"
-      ]
+      ],
+      "resale_eur": 18,
+      "resale_url": "https://www.vinted.it/items/8332299282-beyblade-x-sterling-wolf-3-80fb-ux",
+      "resale_hearts": 29
     },
     {
       "id": 10,
@@ -3864,7 +4261,7 @@
       "image_url": "https://m.media-amazon.com/images/I/61jv21uYbaL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 12.57,
-      "shipping_jp_eur": 24.48,
+      "shipping_jp_eur": 24.47,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 36,
@@ -3926,6 +4323,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 12.57
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 12.57
         }
       ],
       "price_history_it": [
@@ -3950,7 +4351,10 @@
         "Samurai Saber",
         "UX-09",
         "Saber Samurai"
-      ]
+      ],
+      "resale_eur": 10,
+      "resale_url": "https://www.vinted.it/items/8276107457-beyblade-x-samurai-saber",
+      "resale_hearts": 3
     },
     {
       "id": 7,
@@ -3961,13 +4365,13 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61kINR1gxbL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 9.45,
-      "shipping_jp_eur": 23.05,
+      "price_jp_eur": 9.6,
+      "shipping_jp_eur": 23.41,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": 45.73,
-      "savings_eur": 36.28,
-      "savings_pct": 79.3,
+      "savings_eur": 36.13,
+      "savings_pct": 79,
       "price_history_jp": [
         {
           "date": "2026-02-09",
@@ -4000,6 +4404,10 @@
         {
           "date": "2026-03-05",
           "price_eur": 9.45
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 9.6
         }
       ],
       "price_history_it": [
@@ -4024,7 +4432,10 @@
         "Impact Drake",
         "UX-11",
         "Shelter Drake"
-      ]
+      ],
+      "resale_eur": 6.9,
+      "resale_url": "https://www.vinted.it/items/8185150718-beyblade-x-impact-drake",
+      "resale_hearts": 12
     },
     {
       "id": 92,
@@ -4052,7 +4463,10 @@
       "search_terms": [
         "UX-13 Golem Rock beyblade",
         "Golem Rock 1-60UN"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 11,
@@ -4064,7 +4478,7 @@
       "image_url": "https://m.media-amazon.com/images/I/712keT+tMML._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 8.19,
-      "shipping_jp_eur": 22.55,
+      "shipping_jp_eur": 22.54,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -4126,13 +4540,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 8.19
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 8.19
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Scorpio Spear",
         "UX-14"
-      ]
+      ],
+      "resale_eur": 24.99,
+      "resale_url": "https://www.vinted.it/items/8301225356-beyblade-x-scorpio-spear-0-70-z-ux-14-takara-tomy-neuve",
+      "resale_hearts": 16
     },
     {
       "id": 2,
@@ -4143,13 +4564,13 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/618F-y-CbbL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 12.79,
-      "shipping_jp_eur": 22.7,
+      "price_jp_eur": 8.99,
+      "shipping_jp_eur": 22.69,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 23.3,
-      "savings_eur": 10.51,
-      "savings_pct": 45.1,
+      "savings_eur": 14.31,
+      "savings_pct": 61.4,
       "price_history_jp": [
         {
           "date": "2026-02-09",
@@ -4206,6 +4627,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 12.79
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 8.99
         }
       ],
       "price_history_it": [
@@ -4230,7 +4655,10 @@
         "Meteo Dragoon",
         "UX-17",
         "Meteor Dragoon"
-      ]
+      ],
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8272770397-beyblade-x-meteor-dragoon",
+      "resale_hearts": 9
     },
     {
       "id": 6,
@@ -4241,12 +4669,12 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61bFFvQNM2L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 6.68,
+      "price_jp_eur": 6.67,
       "shipping_jp_eur": 21.3,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 35.82,
-      "savings_eur": 29.14,
+      "savings_eur": 29.15,
       "savings_pct": 81.4,
       "price_history_jp": [
         {
@@ -4308,6 +4736,10 @@
         {
           "date": "2026-03-09",
           "price_eur": 6.68
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 6.67
         }
       ],
       "price_history_it": [
@@ -4331,7 +4763,10 @@
       "search_terms": [
         "Random Booster Vol 8",
         "UX-18"
-      ]
+      ],
+      "resale_eur": 21.99,
+      "resale_url": "https://www.vinted.it/items/8252827722-takara-tomy-beyblade-x-ux-18-random-booster-vol-8",
+      "resale_hearts": 5
     },
     {
       "id": 83,
@@ -4342,10 +4777,10 @@
       "category": "Beyblade",
       "image_url": null,
       "available_jp": true,
-      "price_jp_eur": 25.53,
-      "shipping_jp_eur": 21.26,
+      "price_jp_eur": 26.01,
+      "shipping_jp_eur": 21.66,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -4369,13 +4804,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 25.53
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 26.01
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "UX-18",
         "Mummy Cars 7-55W"
-      ]
+      ],
+      "resale_eur": 18.99,
+      "resale_url": "https://www.vinted.it/items/8060578734-beyblade-x-ux-18-04",
+      "resale_hearts": 17
     },
     {
       "id": 79,
@@ -4386,10 +4828,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/318oXxLPCqL._AC_.jpg",
       "available_jp": true,
-      "price_jp_eur": 8.9,
-      "shipping_jp_eur": 22.66,
+      "price_jp_eur": 9.07,
+      "shipping_jp_eur": 23.08,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -4421,13 +4863,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 8.9
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 9.07
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "UX-18-04 Solbrave",
         "UX-18-04"
-      ]
+      ],
+      "resale_eur": 18.99,
+      "resale_url": "https://www.vinted.it/items/8060578734-beyblade-x-ux-18-04",
+      "resale_hearts": 17
     },
     {
       "id": 57,
@@ -4489,13 +4938,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 29.37
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 29.37
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-03 Starter Antler Stag B 2-60HN",
         "CX-03"
-      ]
+      ],
+      "resale_eur": 40,
+      "resale_url": "https://www.vinted.it/items/8191119234-beyblade-x-cx-03-perseus-dark",
+      "resale_hearts": 0
     },
     {
       "id": 80,
@@ -4506,10 +4962,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61ZhsWU9YoL._AC_SY879_.jpg",
       "available_jp": true,
-      "price_jp_eur": 10.88,
-      "shipping_jp_eur": 21.34,
+      "price_jp_eur": 10.48,
+      "shipping_jp_eur": 21.68,
       "fulfilled_by_amazon": true,
-      "seller_jp": "Amazon.co.jp",
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -4541,13 +4997,20 @@
         {
           "date": "2026-03-06",
           "price_eur": 10.88
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 10.48
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-05 Random Booster Vol.6",
         "CX-05 RB6"
-      ]
+      ],
+      "resale_eur": 19.9,
+      "resale_url": "https://www.vinted.it/items/8287741710-takara-tomy-beyblade-x-cx-05-random-booster-vol6",
+      "resale_hearts": 8
     },
     {
       "id": 64,
@@ -4583,7 +5046,10 @@
       "search_terms": [
         "CX-05 Rare Rhino Reaper C4-55D",
         "CX-05-R2"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 58,
@@ -4595,7 +5061,7 @@
       "image_url": "https://m.media-amazon.com/images/I/71OKZmgrCtL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 26.59,
-      "shipping_jp_eur": 21.71,
+      "shipping_jp_eur": 21.7,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -4645,13 +5111,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 26.59
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 26.59
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-05 Starter Shinigami Insencio T 4-70K",
         "CX-05"
-      ]
+      ],
+      "resale_eur": 19.9,
+      "resale_url": "https://www.vinted.it/items/8287741710-takara-tomy-beyblade-x-cx-05-random-booster-vol6",
+      "resale_hearts": 8
     },
     {
       "id": 68,
@@ -4662,7 +5135,7 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/41p3g2C+4nL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 38.83,
+      "price_jp_eur": 38.82,
       "shipping_jp_eur": 22.41,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -4705,13 +5178,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 38.83
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 38.82
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-05-01 HellsReaper T4-70K",
         "CX-05-01"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 60,
@@ -4773,13 +5253,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 21.64
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 21.64
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-06 Starter Dark Perseus B 6-80W",
         "CX-06"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 56,
@@ -4790,8 +5277,8 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/515hAgPWp4L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 25.93,
-      "shipping_jp_eur": 21.2,
+      "price_jp_eur": 26.57,
+      "shipping_jp_eur": 21.73,
       "fulfilled_by_amazon": true,
       "seller_jp": "Amazon",
       "price_it_eur": null,
@@ -4833,13 +5320,20 @@
         {
           "date": "2026-03-05",
           "price_eur": 25.93
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 26.57
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-06-01 Fox Blush J9-70GR",
         "CX-06-01"
-      ]
+      ],
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8315171788-beyblade-x-cx-06-01-fox-brush-9-70gr",
+      "resale_hearts": 7
     },
     {
       "id": 51,
@@ -4850,10 +5344,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61ndODtmEoL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 10.88,
-      "shipping_jp_eur": 22.73,
+      "price_jp_eur": 10.48,
+      "shipping_jp_eur": 23.08,
       "fulfilled_by_amazon": true,
-      "seller_jp": "Amazon.co.jp",
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -4897,13 +5391,20 @@
         {
           "date": "2026-03-06",
           "price_eur": 10.88
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 10.48
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-08 Random Booster Vol.7",
         "CX-08"
-      ]
+      ],
+      "resale_eur": 10,
+      "resale_url": "https://www.vinted.it/items/8108945175-cx-08-random-booster",
+      "resale_hearts": 8
     },
     {
       "id": 66,
@@ -4914,7 +5415,7 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/41x3xM2eypL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 33.27,
+      "price_jp_eur": 33.26,
       "shipping_jp_eur": 22.66,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -4961,13 +5462,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 33.27
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 33.26
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-08-01 Cerberus Flame W5-80WB",
         "CX-08-01"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 63,
@@ -4978,10 +5486,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/31DsCCC1H0L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 19.36,
-      "shipping_jp_eur": 22.66,
+      "price_jp_eur": 18.58,
+      "shipping_jp_eur": 23.08,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -5025,13 +5533,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 19.36
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 18.58
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "CX-08-03 Cerberus Dark W1-60F",
         "CX-08-03"
-      ]
+      ],
+      "resale_eur": 30,
+      "resale_url": "https://www.vinted.it/items/8193393608-beyblade-x-cx-08-03-dark-cerberus",
+      "resale_hearts": 7
     },
     {
       "id": 34,
@@ -5101,13 +5616,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 10.11
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 10.11
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Nightfortress GV8-70UN",
         "CX-14"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 36,
@@ -5119,7 +5641,7 @@
       "image_url": "https://m.media-amazon.com/images/I/61poLro7mLL._AC_UL320_.jpg",
       "available_jp": true,
       "price_jp_eur": 28.56,
-      "shipping_jp_eur": 63.65,
+      "shipping_jp_eur": 63.64,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -5177,13 +5699,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 28.56
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 28.56
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "Starter Dash Set C",
         "CX-16"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 61,
@@ -5194,10 +5723,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/71r2Z1ixH+L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 22.2,
-      "shipping_jp_eur": 21.62,
+      "price_jp_eur": 22.55,
+      "shipping_jp_eur": 21.96,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -5237,13 +5766,20 @@
         {
           "date": "2026-03-05",
           "price_eur": 22.2
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 22.55
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "UX-04 Starter Wand Wizard 5-70DB",
         "UX-04"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 62,
@@ -5254,8 +5790,8 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/81PUUG34VuL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 20.4,
-      "shipping_jp_eur": 20.7,
+      "price_jp_eur": 20.91,
+      "shipping_jp_eur": 21.21,
       "fulfilled_by_amazon": true,
       "seller_jp": "Amazon",
       "price_it_eur": null,
@@ -5297,13 +5833,20 @@
         {
           "date": "2026-03-05",
           "price_eur": 20.4
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 20.91
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "UX-05 Booster Keel Shark 1-60Q",
         "UX-05"
-      ]
+      ],
+      "resale_eur": 16,
+      "resale_url": "https://www.vinted.it/items/7816719151-takara-tomy-beyblade-x-ux-05-random-booster",
+      "resale_hearts": 56
     },
     {
       "id": 59,
@@ -5314,7 +5857,7 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/81CFov0S0ZL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 17.75,
+      "price_jp_eur": 17.74,
       "shipping_jp_eur": 20.87,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -5365,13 +5908,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 17.75
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 17.74
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "UX-06 Booster Arrow Wizard 4-80GB",
         "UX-06"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 70,
@@ -5419,7 +5969,10 @@
       "search_terms": [
         "UX-18 Complete Set (6 Types)",
         "UX-18-SET"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 45,
@@ -5430,10 +5983,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/31A63dFEvBL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 19.36,
-      "shipping_jp_eur": 22.66,
+      "price_jp_eur": 18.58,
+      "shipping_jp_eur": 23.08,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "Amazon",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -5465,13 +6018,20 @@
         {
           "date": "2026-03-09",
           "price_eur": 19.36
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 18.58
         }
       ],
       "price_history_it": [],
       "search_terms": [
         "UX-18-01 Mummy Cars 4-60C [Rare]",
         "UX-18-01"
-      ]
+      ],
+      "resale_eur": 49,
+      "resale_url": "https://www.vinted.it/items/8321737544-beyblade-x-ux-18-01-price",
+      "resale_hearts": 2
     },
     {
       "id": 94,
@@ -5499,7 +6059,10 @@
       "search_terms": [
         "UX-18-02 Mummy Cars beyblade",
         "Mummy Cars 4-60C"
-      ]
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 43,
@@ -5543,7 +6106,10 @@
       "search_terms": [
         "UX-18-03 Booster Pegasus 5-80GN",
         "UX-18-03"
-      ]
+      ],
+      "resale_eur": 19.9,
+      "resale_url": "https://www.vinted.it/items/8060588313-beyblade-x-ux-18-03",
+      "resale_hearts": 13
     }
   ],
   "categories": [
