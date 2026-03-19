@@ -25,6 +25,9 @@ export function Navbar() {
           <Link href="/about" className="text-sm font-medium text-slate-600 hover:text-brand transition-colors">
             Come funziona
           </Link>
+          <Link href="/guida/migliori-beyblade-x" className="text-sm font-medium text-slate-600 hover:text-brand transition-colors hidden sm:inline">
+            Guide
+          </Link>
           <Link
             href="/cart"
             className="relative flex items-center gap-1 rounded-lg bg-brand px-3 py-1.5 text-sm font-medium text-white hover:bg-brand-light transition-colors"

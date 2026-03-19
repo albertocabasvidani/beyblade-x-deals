@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { getAllProducts, getExportDate } from '@/lib/data';
+import { getAllCategorySlugs } from '@/lib/categories';
 
 const BASE_URL = 'https://beyblade-x-deals.vercel.app';
 
@@ -14,6 +15,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
+  const categoryPages = getAllCategorySlugs().map(slug => ({
+    url: `${BASE_URL}/categoria/${slug}`,
+    lastModified,
+    changeFrequency: 'weekly' as const,
+    priority: 0.9,
+  }));
+
+  const guidePages = [
+    {
+      url: `${BASE_URL}/guida/comprare-da-amazon-giappone`,
+      lastModified,
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+    {
+      url: `${BASE_URL}/guida/migliori-beyblade-x`,
+      lastModified,
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    },
+  ];
+
   return [
     {
       url: BASE_URL,
@@ -27,6 +50,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.5,
     },
+    ...categoryPages,
+    ...guidePages,
     ...productPages,
   ];
 }

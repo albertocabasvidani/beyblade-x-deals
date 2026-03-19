@@ -20,23 +20,28 @@ npx next dev -p 3900
 ```
 src/
 ├── app/
-│   ├── page.tsx                    # Homepage catalogo (SSG)
-│   ├── products/[slug]/page.tsx    # Dettaglio prodotto (SSG) + JSON-LD
+│   ├── page.tsx                    # Homepage catalogo (SSG) + JSON-LD WebSite
+│   ├── products/[slug]/page.tsx    # Dettaglio prodotto (SSG) + JSON-LD Product + Breadcrumb
+│   ├── categoria/[slug]/page.tsx   # Pagina categoria (SSG) + JSON-LD CollectionPage
+│   ├── guida/
+│   │   ├── comprare-da-amazon-giappone/page.tsx  # Guida acquisti JP + FAQ JSON-LD
+│   │   └── migliori-beyblade-x/page.tsx          # Tier list + ItemList JSON-LD
 │   ├── cart/
 │   │   ├── page.tsx                # Simulatore carrello (client-only)
 │   │   └── layout.tsx              # noindex per motori di ricerca
 │   ├── about/page.tsx              # Come funziona + FAQ + affiliate disclosure
-│   ├── sitemap.ts                  # Sitemap dinamica (35 URL)
+│   ├── sitemap.ts                  # Sitemap dinamica (~90 URL)
 │   └── robots.ts                   # Robots.txt (disallow /cart)
 ├── components/
-│   ├── layout/     # navbar, footer
+│   ├── layout/     # navbar, footer (con link categorie e guide)
 │   ├── catalog/    # product-card, product-grid, category-filter, sort-select, search-bar
 │   ├── product/    # price-comparison, affiliate-links, price-history-chart
 │   ├── cart/       # cart-provider, cart-item-row, cart-summary, add-to-cart-button
 │   └── ui/         # badge, price-tag, savings-indicator
 ├── lib/
-│   ├── data.ts          # Carica dati da JSON statico
-│   ├── types.ts         # Interfacce TypeScript
+│   ├── data.ts          # Carica dati da JSON statico + getProductsByCategory
+│   ├── types.ts         # Interfacce TypeScript (8 categorie reali)
+│   ├── categories.ts    # Mapping categorie → slug SEO, titoli, descrizioni
 │   ├── shipping.ts      # Formula spedizione consolidata
 │   ├── affiliate.ts     # Builder URL affiliati Amazon JP/IT + add-to-cart
 │   ├── format.ts        # Formattatori EUR/date
@@ -71,15 +76,21 @@ Shipping = 16.50 + SUM × N^(-0.194)
 - Il pulsante principale sulle pagine prodotto usa l'URL add-to-cart (aggiunge direttamente al carrello Amazon JP)
 
 ## SEO
-- **Sitemap**: `src/app/sitemap.ts` → `/sitemap.xml` (35 URL)
+- **Sitemap**: `src/app/sitemap.ts` → `/sitemap.xml` (~90 URL: home + 8 categorie + 2 guide + 72 prodotti + about)
 - **Robots**: `src/app/robots.ts` → `/robots.txt` (disallow /cart)
+- **JSON-LD Organization**: schema.org Organization nel layout globale
+- **JSON-LD WebSite**: schema.org WebSite con SearchAction sulla homepage
 - **JSON-LD Product**: schema.org Product + BreadcrumbList su ogni pagina prodotto
-- **JSON-LD FAQPage**: 5 FAQ nella pagina Come funziona
+- **JSON-LD CollectionPage**: schema.org CollectionPage + BreadcrumbList su pagine categoria
+- **JSON-LD FAQPage**: 8 FAQ nella pagina About, 5 FAQ nella guida Amazon Giappone
+- **JSON-LD ItemList**: su pagina "Migliori Beyblade X"
 - **OpenGraph + Twitter cards**: su layout globale e pagine prodotto (con immagini)
-- **Keywords**: "beyblade x prezzo", "amazon giappone", "spedizione italia", etc.
+- **Keywords**: "beyblade x", "trottole beyblade x", "amazon giappone", "beyblade x prezzo", etc.
 - **Canonical URLs**: su tutte le pagine
 - **Cart noindex**: `/cart` escluso da indicizzazione (robots.txt + meta robots)
 - **Google Search Console**: verificato con HTML file, sitemap inviata
+- **Keyword research**: `keyword-research.md` nella root con dati Ubersuggest
+- **Categorie SEO**: `src/lib/categories.ts` — mapping 8 categorie → slug ottimizzati per keyword
 
 ## Ordinamento Default
 "Più convenienti (sped. inclusa)" — ordina per `prezzo_IT - (prezzo_JP + spedizione_JP)`, dal risparmio maggiore al minore.

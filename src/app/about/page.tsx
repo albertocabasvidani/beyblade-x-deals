@@ -1,8 +1,8 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Come funziona',
-  description: 'Come funziona BX Deals: spedizione consolidata Amazon JP, stima dei costi e affiliate disclosure.',
+  title: 'Come comprare Beyblade X da Amazon Giappone | Guida',
+  description: 'Guida completa per comprare trottole Beyblade X da Amazon Giappone con spedizione in Italia. Spedizione consolidata, dogana, costi e FAQ.',
 };
 
 const faqJsonLd = {
@@ -47,6 +47,30 @@ const faqJsonLd = {
       acceptedAnswer: {
         '@type': 'Answer',
         text: 'No, per ordini sotto i 150€ di valore merce non si pagano dazi doganali. La maggior parte degli acquisti di Beyblade X rientra in questa soglia.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Amazon Giappone spedisce in Italia?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Sì, Amazon Giappone (amazon.co.jp) spedisce direttamente in Italia tramite corriere espresso (DHL o altro). I prodotti FBA (Fulfilled By Amazon) vengono consolidati in un unico pacco per risparmiare sulla spedizione.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Quanto costa la spedizione da Amazon Giappone in Italia?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'La spedizione base parte da circa 16,50€ per il primo articolo. Con la spedizione consolidata, aggiungere altri prodotti FBA costa molto meno. Ad esempio, 5 trottole Beyblade X possono costare circa 22-25€ di spedizione totale.',
+      },
+    },
+    {
+      '@type': 'Question',
+      name: 'Come si paga su Amazon Giappone?',
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: 'Puoi pagare su Amazon Giappone con carta di credito o debito internazionale (Visa, Mastercard, American Express). Non serve un account giapponese: puoi registrarti con il tuo indirizzo email e inserire il tuo indirizzo italiano per la spedizione.',
       },
     },
   ],

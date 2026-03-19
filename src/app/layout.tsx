@@ -21,10 +21,13 @@ export const metadata: Metadata = {
   description:
     'Confronta i prezzi di Beyblade X tra Amazon Giappone e Italia. Risparmia fino al 60% con la spedizione consolidata.',
   keywords: [
-    'beyblade x', 'beyblade x prezzo', 'beyblade x amazon giappone',
+    'beyblade x', 'trottole beyblade x', 'beyblade x prezzo',
+    'beyblade x amazon giappone', 'beyblade x amazon',
     'comprare beyblade x dal giappone', 'beyblade x risparmio',
     'beyblade x spedizione italia', 'amazon japan beyblade',
-    'beyblade x economici', 'beyblade x offerte',
+    'beyblade x economici', 'beyblade x offerte', 'beyblade x italia',
+    'beyblade x shop', 'beyblade x dove comprare', 'beyblade x takara tomy',
+    'amazon giappone', 'beyblade x trottole',
   ],
   openGraph: {
     title: 'BX Deals - Risparmia su Beyblade X da Amazon Giappone',
@@ -54,6 +57,18 @@ export default function RootLayout({
   return (
     <html lang="it">
       <body className={`${inter.variable} min-h-screen flex flex-col bg-slate-50 text-slate-900 antialiased`}>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              '@context': 'https://schema.org',
+              '@type': 'Organization',
+              name: 'BX Deals',
+              url: BASE_URL,
+              description: 'Confronto prezzi Beyblade X tra Amazon Giappone e Italia',
+            }),
+          }}
+        />
         <CartProvider>
           <Navbar />
           <main className="flex-1">{children}</main>

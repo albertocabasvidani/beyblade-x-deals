@@ -1,14 +1,12 @@
 export type ProductCategory =
+  | 'Beyblade'
   | 'Starter'
-  | 'Random Booster'
+  | 'Random booster'
   | 'Launcher'
   | 'Stadium'
-  | 'Parts'
   | 'Set'
-  | 'String Launcher'
-  | 'Grip'
-  | 'Custom Parts'
-  | 'Blade';
+  | 'Accessory'
+  | 'Booster';
 
 export interface PricePoint {
   date: string;

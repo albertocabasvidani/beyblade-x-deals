@@ -30,3 +30,7 @@ export function getExchangeRate() {
 export function getAllSlugs(): string[] {
   return data.products.map(p => p.slug);
 }
+
+export function getProductsByCategory(category: ProductCategory): Product[] {
+  return data.products.filter(p => p.category === category);
+}

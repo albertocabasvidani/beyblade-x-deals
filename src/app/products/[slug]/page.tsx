@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { getAllSlugs, getProductBySlug } from '@/lib/data';
+import { getCategorySEOByCategory } from '@/lib/categories';
 import { Badge } from '@/components/ui/badge';
 import { PriceComparison } from '@/components/product/price-comparison';
 import { AffiliateLinks } from '@/components/product/affiliate-links';
@@ -24,16 +25,27 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const product = getProductBySlug(slug);
   if (!product) return {};
 
-  const title = `${product.name} - Prezzo Amazon JP vs IT`;
-  const description = `Confronta il prezzo di ${product.name} tra Amazon Giappone e Italia.${
+  const isBey = ['Beyblade', 'Starter', 'Booster'].includes(product.category);
+  const trottolaPrefix = isBey ? 'Trottola ' : '';
+  const title = `${trottolaPrefix}${product.name} - Prezzo Amazon JP vs IT`;
+  const description = `Confronta il prezzo di ${trottolaPrefix}${product.name} (${product.category}) tra Amazon Giappone e Italia.${
     product.savings_pct && product.savings_pct > 0
       ? ` Risparmia ${product.savings_pct.toFixed(0)}% comprando dal Giappone!`
       : ''
   } Spedizione consolidata in Italia.`;
 
+  const keywords = [
+    'beyblade x',
+    product.name.toLowerCase(),
+    ...(product.search_terms || []),
+    product.category.toLowerCase(),
+    ...(isBey ? ['trottola beyblade x'] : []),
+  ];
+
   return {
     title,
     description,
+    keywords,
     openGraph: {
       title,
       description,
@@ -86,13 +98,20 @@ export default async function ProductPage({ params }: Props) {
     ],
   };
 
+  const categorySEO = product.category ? getCategorySEOByCategory(product.category) : undefined;
+
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Catalogo', item: BASE_URL },
-      ...(product.category ? [{ '@type': 'ListItem', position: 2, name: product.category }] : []),
-      { '@type': 'ListItem', position: product.category ? 3 : 2, name: product.name },
+      ...(categorySEO ? [{
+        '@type': 'ListItem',
+        position: 2,
+        name: categorySEO.title,
+        item: `${BASE_URL}/categoria/${categorySEO.slug}`,
+      }] : []),
+      { '@type': 'ListItem', position: categorySEO ? 3 : 2, name: product.name },
     ],
   };
 
@@ -103,9 +122,11 @@ export default async function ProductPage({ params }: Props) {
       <nav className="mb-4 text-sm text-slate-500">
         <Link href="/" className="hover:text-brand">Catalogo</Link>
         <span className="mx-2">/</span>
-        {product.category && (
+        {categorySEO && (
           <>
-            <span>{product.category}</span>
+            <Link href={`/categoria/${categorySEO.slug}`} className="hover:text-brand">
+              {categorySEO.title}
+            </Link>
             <span className="mx-2">/</span>
           </>
         )}
