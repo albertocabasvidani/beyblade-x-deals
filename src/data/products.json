@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-03-18T09:00:27.155Z",
+  "exportedAt": "2026-03-19T08:12:47.422Z",
   "exchangeRate": {
     "jpy_eur": 0.00542,
     "fetchedAt": "2026-02-27 14:55:42"
@@ -134,6 +134,77 @@
       "search_terms": [
         "BX-07 Start Dash Set",
         "BX-07"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 38,
+      "slug": "b0c52yjqbc",
+      "asin": "B0C52YJQBC",
+      "name": "BX-10 Extreme Stadium",
+      "name_it": null,
+      "category": "Stadium",
+      "image_url": "https://m.media-amazon.com/images/I/516r5DrOFDL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 14.25,
+      "shipping_jp_eur": 57.44,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon.co.jp",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 11.43
+        },
+        {
+          "date": "2026-02-23",
+          "price_eur": 11.43
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 11.45
+        },
+        {
+          "date": "2026-02-25",
+          "price_eur": 11.38
+        },
+        {
+          "date": "2026-02-26",
+          "price_eur": 11.31
+        },
+        {
+          "date": "2026-02-27",
+          "price_eur": 11.34
+        },
+        {
+          "date": "2026-03-09",
+          "price_eur": 12.2
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 12.24
+        },
+        {
+          "date": "2026-03-11",
+          "price_eur": 12.23
+        },
+        {
+          "date": "2026-03-13",
+          "price_eur": 12.25
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 14.25
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-10 Extreme Stadium",
+        "BX-10"
       ],
       "resale_eur": null,
       "resale_url": null,
@@ -403,6 +474,45 @@
       "search_terms": [
         "BX-28 Dual Pack Yell Kong & HelmKnight",
         "BX-28"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 67,
+      "slug": "b0fnjfyxfh",
+      "asin": "B0FNJFYXFH",
+      "name": "BX-36-01 Whale Wave 5-80E",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/41dQP-LHoSL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 33.33,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 25.56
+        },
+        {
+          "date": "2026-02-26",
+          "price_eur": 25.29
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 33.33
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-36-01 Whale Wave 5-80E",
+        "BX-36-01"
       ],
       "resale_eur": null,
       "resale_url": null,
@@ -939,6 +1049,53 @@
       "resale_hearts": 8
     },
     {
+      "id": 39,
+      "slug": "b0gn3tsfjg",
+      "asin": "B0GN3TSFJG",
+      "name": "BX-48-05 Drumbuster",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61LajCnsUQL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 12.2,
+      "shipping_jp_eur": 21.3,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 11.72
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 11.74
+        },
+        {
+          "date": "2026-03-02",
+          "price_eur": 12.11
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 12.11
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 12.2
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48-05 Drumbuster",
+        "BX-48-05"
+      ],
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8216917601-bx-48-05-dranbuster-2-80q-metal-coat-red",
+      "resale_hearts": 2
+    },
+    {
       "id": 15,
       "slug": "b0dc692t6x",
       "asin": "B0DC692T6X",
@@ -1135,6 +1292,41 @@
       "resale_eur": 6,
       "resale_url": "https://www.vinted.it/items/8134686819-sword-dran-3-60f-beyblade-x-launcher",
       "resale_hearts": 4
+    },
+    {
+      "id": 84,
+      "slug": "b0c52c4l3t",
+      "asin": "B0C52C4L3T",
+      "name": "Beyblade X BX-02 Starter Hells Scythe 4-60T",
+      "name_it": null,
+      "category": "Starter",
+      "image_url": "https://m.media-amazon.com/images/I/61aJExH96+L._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 7.24,
+      "shipping_jp_eur": 22.52,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Amazon.co.jp",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-02",
+          "price_eur": 7.19
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 7.24
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-02",
+        "Hells Scythe"
+      ],
+      "resale_eur": 9.95,
+      "resale_url": "https://www.vinted.it/items/8335910520-beyblade-x-scythe-incendio-4-60t",
+      "resale_hearts": 0
     },
     {
       "id": 18,
@@ -2189,6 +2381,88 @@
       "resale_hearts": 26
     },
     {
+      "id": 111,
+      "slug": "b0ggwb2rx1",
+      "asin": "B0GGWB2RX1",
+      "name": "Beyblade X BX-48 Random Booster Vol. 9 Cobalt Dragoon 9-80F",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/616SfxsFqsL._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 60.19,
+      "shipping_jp_eur": 28.2,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 60.19
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48",
+        "Bay"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 76,
+      "slug": "b0gn379tv5",
+      "asin": "B0GN379TV5",
+      "name": "Beyblade X BX-48-01 Cobalt Dragoon 9-80F",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61d+LkqSmeL._AC_SL1058_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 15.55,
+      "shipping_jp_eur": 21.3,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-24",
+          "price_eur": 16.72
+        },
+        {
+          "date": "2026-03-02",
+          "price_eur": 15.98
+        },
+        {
+          "date": "2026-03-04",
+          "price_eur": 16.37
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 16.12
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 16.37
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 15.55
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "Cobalt Dragoon Black",
+        "BX-48-01"
+      ],
+      "resale_eur": 35,
+      "resale_url": "https://www.vinted.it/items/8257530439-black-cobalt-dragoon-9-80-flat",
+      "resale_hearts": 6
+    },
+    {
       "id": 97,
       "slug": "b0gs4m7t5b",
       "asin": "B0GS4M7T5B",
@@ -2226,6 +2500,53 @@
       "resale_eur": null,
       "resale_url": null,
       "resale_hearts": null
+    },
+    {
+      "id": 90,
+      "slug": "b0dn6xn4vq",
+      "asin": "B0DN6XN4VQ",
+      "name": "Beyblade X CX Arc Wizard R 4-55LO Starter",
+      "name_it": null,
+      "category": "Starter",
+      "image_url": "https://m.media-amazon.com/images/I/71yR4L3yA9L._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 25.52,
+      "shipping_jp_eur": 22.61,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Wadoh Store【適格請求書発行事業者】",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-05",
+          "price_eur": 25.55
+        },
+        {
+          "date": "2026-03-09",
+          "price_eur": 25.48
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 25.47
+        },
+        {
+          "date": "2026-03-11",
+          "price_eur": 25.47
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 25.52
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "Arc Wizard beyblade",
+        "CX Arc Wizard"
+      ],
+      "resale_eur": 14.5,
+      "resale_url": "https://www.vinted.it/items/8306808820-beyblade-x-arc-wizard-r4-55lo",
+      "resale_hearts": 0
     },
     {
       "id": 9,
@@ -2463,6 +2784,37 @@
       "resale_eur": 10,
       "resale_url": "https://www.vinted.it/items/8270160091-beyblade-x-pegasus-blast-r3d",
       "resale_hearts": 4
+    },
+    {
+      "id": 112,
+      "slug": "b0fkrl6k7l",
+      "asin": "B0FKRL6K7L",
+      "name": "Beyblade X CX-08 Random Booster Vol.7 CX-08-02 Whale Flame M3-85HT【Rare 2】【CX-08-",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/51AXMOu3mTL._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 13.82,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 13.82
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-08",
+        "etc.)【CX-08-"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 8,
@@ -2965,6 +3317,157 @@
       "resale_hearts": null
     },
     {
+      "id": 100,
+      "slug": "b0dxfm186n",
+      "asin": "B0DXFM186N",
+      "name": "Beyblade X Dranbuster 1-60A UX-01",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61WT-74luQL._AC_SY879_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 12.87,
+      "shipping_jp_eur": 22.51,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 12.87
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-01"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 105,
+      "slug": "b0dxc6bqns",
+      "asin": "B0DXC6BQNS",
+      "name": "Beyblade X Drave S6-60V CX-01",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61ZyOEOkD9L._AC_SY679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 11.59,
+      "shipping_jp_eur": 22.4,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 11.59
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-01"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 106,
+      "slug": "b0g27mr74f",
+      "asin": "B0G27MR74F",
+      "name": "Beyblade X Mummy Cars 7-55W UX-18 Random Booster Vol. 8",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/41AOaHDFHyL._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 23.29,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 23.29
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18",
+        "Bay"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 101,
+      "slug": "b0g1yxyczr",
+      "asin": "B0G1YXYCZR",
+      "name": "Beyblade X Phoenix Wing 9-60GF BX-23",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/617dj5aY1RL._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 15.49,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 15.49
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-23"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 108,
+      "slug": "b0d9nf77r3",
+      "asin": "B0D9NF77R3",
+      "name": "Beyblade X Takara Tomy (TAKARA TOMY) Beyblade X BEYBLADE X BX-00 Beyblade 25th Anniversary Set",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/71U6HnkXNxL._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 110.34,
+      "shipping_jp_eur": 31.17,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "株式会社Hobby Garden★インボイス対応、すり替え防止対策店★",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 110.34
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-00"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
       "id": 11,
       "slug": "b0f47g3qjt",
       "asin": "B0F47G3QJT",
@@ -3189,6 +3692,92 @@
       "resale_hearts": 9
     },
     {
+      "id": 102,
+      "slug": "b0g1yvcyt4",
+      "asin": "B0G1YVCYT4",
+      "name": "Beyblade X UX-18 Random Booster Vol. 8 Toy Toy, Bay",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/61RcEvaI4kL._AC_SY879_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 8.36,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 8.36
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18",
+        "Bay"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 83,
+      "slug": "b0gcgkxryl",
+      "asin": "B0GCGKXRYL",
+      "name": "Beyblade X UX-18 Random Booster Vol.8 UX-18-01 Mummy Cars 7-55W [Rare]",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61RcEvaI4kL._AC_SL1059_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 24.46,
+      "shipping_jp_eur": 21.3,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-01",
+          "price_eur": 25.38
+        },
+        {
+          "date": "2026-03-04",
+          "price_eur": 26.01
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 25.6
+        },
+        {
+          "date": "2026-03-06",
+          "price_eur": 25.61
+        },
+        {
+          "date": "2026-03-09",
+          "price_eur": 25.53
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 26.01
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 24.46
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18",
+        "Mummy Cars 7-55W"
+      ],
+      "resale_eur": 18.99,
+      "resale_url": "https://www.vinted.it/items/8060578734-beyblade-x-ux-18-04",
+      "resale_hearts": 17
+    },
+    {
       "id": 79,
       "slug": "b0g27mrh8b",
       "asin": "B0G27MRH8B",
@@ -3293,6 +3882,160 @@
       "search_terms": [
         "Bullet Griffon",
         "UX-19"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 107,
+      "slug": "b0ggx22rml",
+      "asin": "B0GGX22RML",
+      "name": "Beyblade X [02] Shark Edge 4-70E BX-48 Random Booster Vol.9",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/31HOC+czFvL._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 21.18,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 21.18
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48",
+        "Bay"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 104,
+      "slug": "b0g27ql5jw",
+      "asin": "B0G27QL5JW",
+      "name": "Beyblade X [03] Pegasus Blush M3-85W UX-18 Random Booster Vol. 8",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/31-BGfKd26L._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 8.92,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 8.92
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18",
+        "Bay"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 110,
+      "slug": "b0ggwkvkq7",
+      "asin": "B0GGWKVKQ7",
+      "name": "Beyblade X [04] Healthy Size 3 - 85 GB BX-48 Random Booster Vol. 9",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/31mFdE5MjVL._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 9.47,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 9.47
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48",
+        "Bay"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 103,
+      "slug": "b0g27t6hn5",
+      "asin": "B0G27T6HN5",
+      "name": "Beyblade X [05] Drandagger 7-55G UX-18 Random Booster Vol. 8",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/31GWrOj0VIL._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 13.26,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 13.26
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18",
+        "Bay"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 109,
+      "slug": "b0g1yt7vyb",
+      "asin": "B0G1YT7VYB",
+      "name": "Beyblade X 【Authentic Product】BX-34 Cobalt Dragoon 2-60C",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/611YGuy-S9L._AC_SY300_SX300_QL70_ML2_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 13.82,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 13.82
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-34"
       ],
       "resale_eur": null,
       "resale_url": null,
@@ -3653,6 +4396,81 @@
       "resale_eur": null,
       "resale_url": null,
       "resale_hearts": null
+    },
+    {
+      "id": 51,
+      "slug": "b0g3ys31sn",
+      "asin": "B0G3YS31SN",
+      "name": "CX-08 Random Booster Vol.7",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61ndODtmEoL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 11.7,
+      "shipping_jp_eur": 22.7,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 10.88
+        },
+        {
+          "date": "2026-02-23",
+          "price_eur": 10.88
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 10.63
+        },
+        {
+          "date": "2026-02-25",
+          "price_eur": 10.28
+        },
+        {
+          "date": "2026-02-26",
+          "price_eur": 10.22
+        },
+        {
+          "date": "2026-02-27",
+          "price_eur": 10.24
+        },
+        {
+          "date": "2026-03-01",
+          "price_eur": 10.23
+        },
+        {
+          "date": "2026-03-04",
+          "price_eur": 10.48
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 10.32
+        },
+        {
+          "date": "2026-03-06",
+          "price_eur": 10.88
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 10.48
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 11.7
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-08 Random Booster Vol.7",
+        "CX-08"
+      ],
+      "resale_eur": 10,
+      "resale_url": "https://www.vinted.it/items/8108945175-cx-08-random-booster",
+      "resale_hearts": 8
     },
     {
       "id": 66,
@@ -4023,6 +4841,77 @@
       "resale_hearts": null
     },
     {
+      "id": 62,
+      "slug": "b0d9z2yfp3",
+      "asin": "B0D9Z2YFP3",
+      "name": "UX-05 Booster Keel Shark 1-60Q",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/81PUUG34VuL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 20.56,
+      "shipping_jp_eur": 20.86,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Wadoh Store【適格請求書発行事業者】",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 20.6
+        },
+        {
+          "date": "2026-02-23",
+          "price_eur": 20.6
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 20.64
+        },
+        {
+          "date": "2026-02-25",
+          "price_eur": 20.51
+        },
+        {
+          "date": "2026-02-26",
+          "price_eur": 20.38
+        },
+        {
+          "date": "2026-02-27",
+          "price_eur": 20.43
+        },
+        {
+          "date": "2026-03-02",
+          "price_eur": 20.4
+        },
+        {
+          "date": "2026-03-04",
+          "price_eur": 20.91
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 20.4
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 20.91
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 20.56
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-05 Booster Keel Shark 1-60Q",
+        "UX-05"
+      ],
+      "resale_eur": 16,
+      "resale_url": "https://www.vinted.it/items/7816719151-takara-tomy-beyblade-x-ux-05-random-booster",
+      "resale_hearts": 56
+    },
+    {
       "id": 59,
       "slug": "b0d9zqv5r4",
       "asin": "B0D9ZQV5R4",
@@ -4112,6 +5001,96 @@
       "resale_eur": null,
       "resale_url": null,
       "resale_hearts": null
+    },
+    {
+      "id": 94,
+      "slug": "b0gch74s3n",
+      "asin": "B0GCH74S3N",
+      "name": "UX-18-02 Mummy Cars 4-60C",
+      "name_it": null,
+      "category": "Booster",
+      "image_url": "https://m.media-amazon.com/images/I/61RcEvaI4kL._AC_SL1059_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 13.88,
+      "shipping_jp_eur": 21.3,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-09",
+          "price_eur": 13.85
+        },
+        {
+          "date": "2026-03-11",
+          "price_eur": 13.85
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 13.88
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18-02 Mummy Cars beyblade",
+        "Mummy Cars 4-60C"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 43,
+      "slug": "b0gchtvl3v",
+      "asin": "B0GCHTVL3V",
+      "name": "UX-18-03 Booster Pegasus 5-80GN",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/51SW0x8wdML._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 8.3,
+      "shipping_jp_eur": 21.37,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 8.87
+        },
+        {
+          "date": "2026-02-23",
+          "price_eur": 8.87
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 8.89
+        },
+        {
+          "date": "2026-03-02",
+          "price_eur": 8.79
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 8.79
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 8.3
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18-03 Booster Pegasus 5-80GN",
+        "UX-18-03"
+      ],
+      "resale_eur": 19.9,
+      "resale_url": "https://www.vinted.it/items/8060588313-beyblade-x-ux-18-03",
+      "resale_hearts": 13
     }
   ],
   "categories": [
@@ -4121,6 +5100,7 @@
     "Launcher",
     "Random booster",
     "Set",
-    "Stadium"
+    "Stadium",
+    "Starter"
   ]
 }
