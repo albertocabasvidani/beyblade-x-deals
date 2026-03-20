@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# seo reports (generati dal task giornaliero)
+/seo-reports
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

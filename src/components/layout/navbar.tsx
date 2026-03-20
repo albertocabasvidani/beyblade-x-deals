@@ -25,9 +25,30 @@ export function Navbar() {
           <Link href="/about" className="text-sm font-medium text-slate-600 hover:text-brand transition-colors">
             Come funziona
           </Link>
-          <Link href="/guida/migliori-beyblade-x" className="text-sm font-medium text-slate-600 hover:text-brand transition-colors hidden sm:inline">
-            Guide
-          </Link>
+          <div className="relative hidden sm:block group">
+            <button className="text-sm font-medium text-slate-600 hover:text-brand transition-colors flex items-center gap-1">
+              Guide
+              <svg className="h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth="2">
+                <path d="M19 9l-7 7-7-7" />
+              </svg>
+            </button>
+            <div className="invisible group-hover:visible opacity-0 group-hover:opacity-100 transition-all absolute right-0 top-full pt-2 z-50">
+              <div className="w-64 rounded-lg border border-slate-200 bg-white py-1 shadow-lg">
+                <Link
+                  href="/guida/migliori-beyblade-x"
+                  className="block px-4 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-brand transition-colors"
+                >
+                  Migliori Beyblade X 2026
+                </Link>
+                <Link
+                  href="/guida/comprare-da-amazon-giappone"
+                  className="block px-4 py-2 text-sm text-slate-600 hover:bg-slate-50 hover:text-brand transition-colors"
+                >
+                  Comprare da Amazon Giappone
+                </Link>
+              </div>
+            </div>
+          </div>
           <Link
             href="/cart"
             className="relative flex items-center gap-1 rounded-lg bg-brand px-3 py-1.5 text-sm font-medium text-white hover:bg-brand-light transition-colors"

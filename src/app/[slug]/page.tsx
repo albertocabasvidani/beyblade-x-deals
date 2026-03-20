@@ -29,11 +29,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title,
       description: cat.description,
-      url: `${BASE_URL}/categoria/${slug}`,
+      url: `${BASE_URL}/${slug}`,
       type: 'website',
     },
     alternates: {
-      canonical: `${BASE_URL}/categoria/${slug}`,
+      canonical: `${BASE_URL}/${slug}`,
     },
   };
 }
@@ -59,7 +59,7 @@ export default async function CategoryPage({ params }: Props) {
     '@type': 'CollectionPage',
     name: cat.title,
     description: cat.description,
-    url: `${BASE_URL}/categoria/${slug}`,
+    url: `${BASE_URL}/${slug}`,
     numberOfItems: products.length,
   };
 
@@ -104,7 +104,7 @@ export default async function CategoryPage({ params }: Props) {
           {CATEGORIES_SEO.filter(c => c.slug !== slug).map(c => (
             <Link
               key={c.slug}
-              href={`/categoria/${c.slug}`}
+              href={`/${c.slug}`}
               className="rounded-full border border-slate-200 px-3 py-1 text-sm text-slate-600 hover:border-brand hover:text-brand transition-colors"
             >
               {c.title}

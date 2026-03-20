@@ -15,7 +15,7 @@ export function Footer() {
             <ul className="space-y-1">
               {mainCategories.map(cat => (
                 <li key={cat.slug}>
-                  <Link href={`/categoria/${cat.slug}`} className="hover:text-brand transition-colors">
+                  <Link href={`/${cat.slug}`} className="hover:text-brand transition-colors">
                     {cat.title}
                   </Link>
                 </li>

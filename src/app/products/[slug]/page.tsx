@@ -109,7 +109,7 @@ export default async function ProductPage({ params }: Props) {
         '@type': 'ListItem',
         position: 2,
         name: categorySEO.title,
-        item: `${BASE_URL}/categoria/${categorySEO.slug}`,
+        item: `${BASE_URL}/${categorySEO.slug}`,
       }] : []),
       { '@type': 'ListItem', position: categorySEO ? 3 : 2, name: product.name },
     ],
@@ -124,7 +124,7 @@ export default async function ProductPage({ params }: Props) {
         <span className="mx-2">/</span>
         {categorySEO && (
           <>
-            <Link href={`/categoria/${categorySEO.slug}`} className="hover:text-brand">
+            <Link href={`/${categorySEO.slug}`} className="hover:text-brand">
               {categorySEO.title}
             </Link>
             <span className="mx-2">/</span>

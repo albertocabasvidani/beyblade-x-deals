@@ -172,7 +172,7 @@ export default function GuidaMigliori() {
           </ul>
           <p className="mt-3">
             Per un set equilibrato, consigliamo di avere almeno una trottola per tipo.
-            Gli <Link href="/categoria/starter" className="text-brand underline">starter set</Link> includono
+            Gli <Link href="/beyblade-x-starter" className="text-brand underline">starter set</Link> includono
             trottola e lanciatore e sono ideali per iniziare.
           </p>
         </section>

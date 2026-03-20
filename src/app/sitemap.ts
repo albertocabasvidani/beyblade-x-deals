@@ -16,7 +16,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const categoryPages = getAllCategorySlugs().map(slug => ({
-    url: `${BASE_URL}/categoria/${slug}`,
+    url: `${BASE_URL}/${slug}`,
     lastModified,
     changeFrequency: 'weekly' as const,
     priority: 0.9,

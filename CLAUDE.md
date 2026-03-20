@@ -22,7 +22,7 @@ src/
 ├── app/
 │   ├── page.tsx                    # Homepage catalogo (SSG) + JSON-LD WebSite
 │   ├── products/[slug]/page.tsx    # Dettaglio prodotto (SSG) + JSON-LD Product + Breadcrumb
-│   ├── categoria/[slug]/page.tsx   # Pagina categoria (SSG) + JSON-LD CollectionPage
+│   ├── [slug]/page.tsx             # Pagina categoria (SSG) + JSON-LD CollectionPage (URL: /beyblade-x-trottole, ecc.)
 │   ├── guida/
 │   │   ├── comprare-da-amazon-giappone/page.tsx  # Guida acquisti JP + FAQ JSON-LD
 │   │   └── migliori-beyblade-x/page.tsx          # Tier list + ItemList JSON-LD
@@ -90,7 +90,9 @@ Shipping = 16.50 + SUM × N^(-0.194)
 - **Cart noindex**: `/cart` escluso da indicizzazione (robots.txt + meta robots)
 - **Google Search Console**: verificato con HTML file, sitemap inviata
 - **Keyword research**: `keyword-research.md` nella root con dati Ubersuggest
-- **Categorie SEO**: `src/lib/categories.ts` — mapping 8 categorie → slug ottimizzati per keyword
+- **Categorie SEO**: `src/lib/categories.ts` — mapping 8 categorie → slug con keyword (es. `/beyblade-x-trottole`, `/beyblade-x-stadium`)
+- **Redirect 301**: vecchi URL `/categoria/*` → nuovi `/beyblade-x-*` in `next.config.ts`
+- **Navbar dropdown**: "Guide" con menu a discesa su hover
 
 ## Ordinamento Default
 "Più convenienti (sped. inclusa)" — ordina per `prezzo_IT - (prezzo_JP + spedizione_JP)`, dal risparmio maggiore al minore.
