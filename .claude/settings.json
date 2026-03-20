@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sqlite3 \"c:/claude-code/Personale/compravendite/data/compravendite.db\" \"SELECT id, name, category FROM products WHERE category != category COLLATE NOCASE OR category LIKE ''%'' || LOWER\\(SUBSTR\\(category,1,1\\)\\) || ''%'' AND category != UPPER\\(SUBSTR\\(category,1,1\\)\\) || SUBSTR\\(category,2\\)\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\cinqu\\.claude\\rules"
+    ]
+  }
+}
