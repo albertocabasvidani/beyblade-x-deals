@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 
-const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+const BASE_URL = 'https://trottolebeybladex.it';
 
 export default function robots(): MetadataRoute.Robots {
   return {

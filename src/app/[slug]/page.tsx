@@ -5,7 +5,7 @@ import { getProductsByCategory } from '@/lib/data';
 import { CATEGORIES_SEO, getCategorySEOBySlug, getAllCategorySlugs } from '@/lib/categories';
 import { ProductCard } from '@/components/catalog/product-card';
 
-const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+const BASE_URL = 'https://trottolebeybladex.it';
 
 interface Props {
   params: Promise<{ slug: string }>;

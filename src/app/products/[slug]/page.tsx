@@ -10,7 +10,7 @@ import { AffiliateLinks } from '@/components/product/affiliate-links';
 import { PriceHistoryChart } from '@/components/product/price-history-chart';
 import { AddToCartButton } from '@/components/cart/add-to-cart-button';
 
-const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+const BASE_URL = 'https://trottolebeybladex.it';
 
 interface Props {
   params: Promise<{ slug: string }>;

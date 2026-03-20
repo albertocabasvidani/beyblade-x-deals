@@ -10,7 +10,7 @@ const inter = Inter({
   subsets: ['latin'],
 });
 
-const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+const BASE_URL = 'https://trottolebeybladex.it';
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),

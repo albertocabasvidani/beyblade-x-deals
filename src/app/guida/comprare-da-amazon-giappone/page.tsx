@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
-const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+const BASE_URL = 'https://trottolebeybladex.it';
 
 export const metadata: Metadata = {
   title: 'Come Comprare Beyblade X da Amazon Giappone — Guida 2026',

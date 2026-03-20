@@ -2,7 +2,7 @@ import type { MetadataRoute } from 'next';
 import { getAllProducts, getExportDate } from '@/lib/data';
 import { getAllCategorySlugs } from '@/lib/categories';
 
-const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+const BASE_URL = 'https://trottolebeybladex.it';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const products = getAllProducts();

@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { getAllProducts } from '@/lib/data';
 import { formatEur } from '@/lib/format';
 
-const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+const BASE_URL = 'https://trottolebeybladex.it';
 
 export const metadata: Metadata = {
   title: 'Migliori Beyblade X 2026: Tier List e Dove Comprarli',

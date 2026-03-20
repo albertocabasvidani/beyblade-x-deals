@@ -2,7 +2,7 @@ import { getAllProducts, getCategories, getExportDate } from '@/lib/data';
 import { formatDate } from '@/lib/format';
 import { ProductGrid } from '@/components/catalog/product-grid';
 
-const BASE_URL = 'https://beyblade-x-deals.vercel.app';
+const BASE_URL = 'https://trottolebeybladex.it';
 
 const websiteJsonLd = {
   '@context': 'https://schema.org',

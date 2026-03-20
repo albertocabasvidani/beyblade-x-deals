@@ -89,6 +89,7 @@ Shipping = 16.50 + SUM × N^(-0.194)
 - **Canonical URLs**: su tutte le pagine
 - **Cart noindex**: `/cart` escluso da indicizzazione (robots.txt + meta robots)
 - **Google Search Console**: verificato con HTML file, sitemap inviata
+- **Monitoraggio SEO**: task Windows giornaliero `gsc-monitor.js` (ore 8:00), report in `seo-reports/`
 - **Keyword research**: `keyword-research.md` nella root con dati Ubersuggest
 - **Categorie SEO**: `src/lib/categories.ts` — mapping 8 categorie → slug con keyword (es. `/beyblade-x-trottole`, `/beyblade-x-stadium`)
 - **Redirect 301**: vecchi URL `/categoria/*` → nuovi `/beyblade-x-*` in `next.config.ts`
@@ -99,9 +100,12 @@ Shipping = 16.50 + SUM × N^(-0.194)
 
 ## Deploy
 - **Vercel**: auto-deploy da GitHub su ogni push a master
-- **URL**: https://beyblade-x-deals.vercel.app
+- **Dominio**: https://trottolebeybladex.it (registrato su Tophost, DNS puntato a Vercel)
+- **URL legacy**: https://beyblade-x-deals.vercel.app (ancora funzionante)
+- **DNS Vercel**: A `@` → `216.198.79.1`, CNAME `www` → `d751f202975d63d7.vercel-dns-017.com`
+- **Registrar**: Tophost (tophost.it), account `albertocabasvidani@gmail.com`
 - **Env vars su Vercel**: `NEXT_PUBLIC_AFFILIATE_TAG_JP=albertocv-22`
-- Build ~30 secondi, 39 pagine statiche
+- Build ~30 secondi, 90 pagine statiche
 
 ## Business Model
 Link affiliati Amazon → commissioni 3% giocattoli → raggiungere 10 vendite/mese → Creators API per prezzi automatici.
@@ -128,4 +132,4 @@ Link affiliati Amazon → commissioni 3% giocattoli → raggiungere 10 vendite/m
 - Branch: master
 
 # currentDate
-Today's date is 2026-02-15.
+Today's date is 2026-03-20.
