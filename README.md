@@ -2,7 +2,7 @@
 
 Confronta i prezzi dei Beyblade X tra Amazon Giappone e Amazon Italia. Scopri quanto puoi risparmiare comprando dal Giappone con la spedizione consolidata.
 
-**Live**: https://beyblade-x-deals.vercel.app
+**Live**: https://trottolebeybladex.it
 
 ## Funzionalita
 
@@ -12,7 +12,10 @@ Confronta i prezzi dei Beyblade X tra Amazon Giappone e Amazon Italia. Scopri qu
 - Ordinamento per convenienza reale (prezzo + spedizione)
 - Link diretti per aggiungere al carrello Amazon JP
 - Storico prezzi per ogni prodotto
-- SEO: sitemap, JSON-LD Product/FAQ, OpenGraph
+- 8 pagine categoria con URL ottimizzati SEO (`/beyblade-x-trottole`, `/beyblade-x-stadium`, ecc.)
+- 2 guide: "Come comprare da Amazon Giappone" e "Migliori Beyblade X 2026"
+- SEO: sitemap (~90 URL), JSON-LD Product/FAQ/CollectionPage/ItemList, OpenGraph
+- Monitoraggio SEO automatico con Google Search Console API
 
 ## Stack
 

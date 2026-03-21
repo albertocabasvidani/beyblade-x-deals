@@ -88,7 +88,9 @@ Shipping = 16.50 + SUM × N^(-0.194)
 - **Keywords**: "beyblade x", "trottole beyblade x", "amazon giappone", "beyblade x prezzo", etc.
 - **Canonical URLs**: su tutte le pagine
 - **Cart noindex**: `/cart` escluso da indicizzazione (robots.txt + meta robots)
-- **Google Search Console**: verificato con HTML file, sitemap inviata
+- **Google Search Console**: verificato con HTML file per entrambi i domini (vecchio e nuovo), sitemap inviata
+  - Vecchio: `beyblade-x-deals.vercel.app` (file `googlec6ffa36b08edc90d.html`)
+  - Nuovo: `trottolebeybladex.it` (file `google32887a75d43abc6a.html`)
 - **Monitoraggio SEO**: task Windows giornaliero `gsc-monitor.js` (ore 8:00), report in `seo-reports/`
 - **Keyword research**: `keyword-research.md` nella root con dati Ubersuggest
 - **Categorie SEO**: `src/lib/categories.ts` — mapping 8 categorie → slug con keyword (es. `/beyblade-x-trottole`, `/beyblade-x-stadium`)
