@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-03-20T09:00:33.456Z",
+  "exportedAt": "2026-03-22T06:58:17.657Z",
   "exchangeRate": {
     "jpy_eur": 0.00542,
     "fetchedAt": "2026-02-27 14:55:42"
@@ -100,9 +100,9 @@
         "BX-00 Transformers Optimus Prime vs Megatron",
         "BX-00-TF"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 20,
+      "resale_url": "https://www.vinted.it/items/8407987703-beyblade-x-optimus-prime-4-60t-megatron-4-80b",
+      "resale_hearts": 18
     },
     {
       "id": 72,
@@ -1025,9 +1025,9 @@
         "BX-48 Cobalt Dragoon Rare",
         "BX-48 Rare"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8389340081-random-booster-bx48",
+      "resale_hearts": 3
     },
     {
       "id": 44,
@@ -1356,9 +1356,9 @@
         "BX-01",
         "Sword Dran"
       ],
-      "resale_eur": 6,
-      "resale_url": "https://www.vinted.it/items/8134686819-sword-dran-3-60f-beyblade-x-launcher",
-      "resale_hearts": 4
+      "resale_eur": 8,
+      "resale_url": "https://www.vinted.it/items/8213651220-beyblade-x-sword-dran-3-60f",
+      "resale_hearts": 7
     },
     {
       "id": 84,
@@ -1395,9 +1395,9 @@
         "BX-02",
         "Hells Scythe"
       ],
-      "resale_eur": 9.95,
-      "resale_url": "https://www.vinted.it/items/8335910520-beyblade-x-scythe-incendio-4-60t",
-      "resale_hearts": 0
+      "resale_eur": 20,
+      "resale_url": "https://www.vinted.it/items/8275032447-beyblade-x-bx-02-hell-shyte-4-60t",
+      "resale_hearts": 4
     },
     {
       "id": 18,
@@ -1519,9 +1519,9 @@
         "Bay Battle Pass",
         "BX-09"
       ],
-      "resale_eur": 34.9,
-      "resale_url": "https://www.vinted.it/items/8334133706-beyblade-x-beybattlepass-bx-09",
-      "resale_hearts": 15
+      "resale_eur": 30,
+      "resale_url": "https://www.vinted.it/items/8441815865-beyblade-x-bx-09-battlepass",
+      "resale_hearts": 16
     },
     {
       "id": 25,
@@ -1633,7 +1633,7 @@
       ],
       "resale_eur": 23,
       "resale_url": "https://www.vinted.it/items/8302374343-deck-case-3on3-bx-12-beyblade-x",
-      "resale_hearts": 1
+      "resale_hearts": 2
     },
     {
       "id": 113,
@@ -1734,9 +1734,9 @@
         "Gear Case",
         "BX-25"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 40,
+      "resale_url": "https://www.vinted.it/items/8284788544-beyblade-x-officil-gear-case-white",
+      "resale_hearts": 22
     },
     {
       "id": 93,
@@ -1921,9 +1921,9 @@
         "Cobalt Dragoon",
         "BX-34"
       ],
-      "resale_eur": 30,
-      "resale_url": "https://www.vinted.it/items/8310252147-cobalt-dragoon-2-60c-bx-34-beyblade-x",
-      "resale_hearts": 9
+      "resale_eur": 20,
+      "resale_url": "https://www.vinted.it/items/8444365194-toupie-beyblade-cobalt-dragoon",
+      "resale_hearts": 15
     },
     {
       "id": 86,
@@ -2045,9 +2045,9 @@
         "BX-36",
         "Tide Whale"
       ],
-      "resale_eur": 6.9,
-      "resale_url": "https://www.vinted.it/items/8326220036-whale-wave-beyblade-x",
-      "resale_hearts": 10
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8252956911-beyblade-x-random-booster-whale-wave-bx-36",
+      "resale_hearts": 8
     },
     {
       "id": 95,
@@ -2101,9 +2101,9 @@
         "Shelter Drake BX-39",
         "BX-39 beyblade"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 30,
+      "resale_url": "https://www.vinted.it/items/6246810287-beyblade-x-bx-39-random-booster-shelter-drake",
+      "resale_hearts": 14
     },
     {
       "id": 19,
@@ -2230,8 +2230,8 @@
         "BX-40"
       ],
       "resale_eur": 6,
-      "resale_url": "https://www.vinted.it/items/8009936726-beyblade-x-winder-launcher-takara-tomy",
-      "resale_hearts": 8
+      "resale_url": "https://www.vinted.it/items/8448492181-beyblade-x-winder-launcher",
+      "resale_hearts": 3
     },
     {
       "id": 23,
@@ -2335,7 +2335,7 @@
       ],
       "resale_eur": 40,
       "resale_url": "https://www.vinted.it/items/8284788544-beyblade-x-officil-gear-case-white",
-      "resale_hearts": 23
+      "resale_hearts": 22
     },
     {
       "id": 16,
@@ -2461,9 +2461,9 @@
         "Battle Entry Set",
         "BX-46"
       ],
-      "resale_eur": 110,
-      "resale_url": "https://www.vinted.it/items/7333273071-beyblade-x-bx-46-battle-entry-set-stadium",
-      "resale_hearts": 26
+      "resale_eur": 115,
+      "resale_url": "https://www.vinted.it/items/7770890066-beyblade-x-battle-entry-set-bx-46",
+      "resale_hearts": 32
     },
     {
       "id": 111,
@@ -2496,9 +2496,9 @@
         "BX-48",
         "Bay"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 18,
+      "resale_url": "https://www.vinted.it/items/8324266567-scythe-incendio-3-85gb",
+      "resale_hearts": 5
     },
     {
       "id": 76,
@@ -2551,9 +2551,9 @@
         "Cobalt Dragoon Black",
         "BX-48-01"
       ],
-      "resale_eur": 35,
-      "resale_url": "https://www.vinted.it/items/8257530439-black-cobalt-dragoon-9-80-flat",
-      "resale_hearts": 6
+      "resale_eur": 39,
+      "resale_url": "https://www.vinted.it/items/8404167517-beyblade-x-bx-48-01-cobalt-dragoon-9-80f-black-metal-coat",
+      "resale_hearts": 5
     },
     {
       "id": 97,
@@ -2649,9 +2649,9 @@
         "Arc Wizard beyblade",
         "CX Arc Wizard"
       ],
-      "resale_eur": 14.5,
-      "resale_url": "https://www.vinted.it/items/8306808820-beyblade-x-arc-wizard-r4-55lo",
-      "resale_hearts": 0
+      "resale_eur": 15,
+      "resale_url": "https://www.vinted.it/items/8131794509-beyblade-x-arc-wizard",
+      "resale_hearts": 2
     },
     {
       "id": 9,
@@ -2778,9 +2778,9 @@
         "CX-01",
         "Courage Dran"
       ],
-      "resale_eur": 16.99,
-      "resale_url": "https://www.vinted.it/items/8163972948-beyblade-x-cx-01",
-      "resale_hearts": 6
+      "resale_eur": 10,
+      "resale_url": "https://www.vinted.it/items/8359893948-beyblade-x-dran-brave",
+      "resale_hearts": 4
     },
     {
       "id": 3,
@@ -2902,9 +2902,9 @@
         "Pegasus Blast",
         "CX-07"
       ],
-      "resale_eur": 10,
-      "resale_url": "https://www.vinted.it/items/8270160091-beyblade-x-pegasus-blast-r3d",
-      "resale_hearts": 4
+      "resale_eur": 24,
+      "resale_url": "https://www.vinted.it/items/8328317665-cx-07-pegasusblast-takara-tomy",
+      "resale_hearts": 25
     },
     {
       "id": 8,
@@ -3031,9 +3031,9 @@
         "CX-09",
         "Sol-Eclipse"
       ],
-      "resale_eur": 12,
-      "resale_url": "https://www.vinted.it/items/8276114428-beyblade-x-sol-eclipse",
-      "resale_hearts": 2
+      "resale_eur": 16.99,
+      "resale_url": "https://www.vinted.it/items/8451380842-beyblade-x-cx-09",
+      "resale_hearts": 6
     },
     {
       "id": 4,
@@ -3155,9 +3155,9 @@
         "Wolf Hunt",
         "CX-10"
       ],
-      "resale_eur": 10.9,
-      "resale_url": "https://www.vinted.it/items/8310141792-wolf-hunt-0-60db-wolfhunt-no-assist-blade-free-beyblade-x",
-      "resale_hearts": 23
+      "resale_eur": 20,
+      "resale_url": "https://www.vinted.it/items/8341856242-beyblade-x-wolf-hunt-0-60db",
+      "resale_hearts": 24
     },
     {
       "id": 17,
@@ -3223,9 +3223,9 @@
         "Emperor Might",
         "CX-11"
       ],
-      "resale_eur": 15,
-      "resale_url": "https://www.vinted.it/items/8298703850-cxtop-beyblade-x-paralleli-cx11-emperormight-deck",
-      "resale_hearts": 1
+      "resale_eur": 24,
+      "resale_url": "https://www.vinted.it/items/8281377667-beyblade-x-golemrock-set-cx-11",
+      "resale_hearts": 9
     },
     {
       "id": 1,
@@ -3351,9 +3351,9 @@
         "Phoenix Flare",
         "CX-12"
       ],
-      "resale_eur": 17.99,
-      "resale_url": "https://www.vinted.it/items/8162483915-beyblade-x-cx-12",
-      "resale_hearts": 22
+      "resale_eur": 16,
+      "resale_url": "https://www.vinted.it/items/8416818148-beyblade-x-phoenix-flare",
+      "resale_hearts": 14
     },
     {
       "id": 35,
@@ -3468,9 +3468,9 @@
       "search_terms": [
         "UX-01"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 29,
+      "resale_url": "https://www.vinted.it/items/8440166319-beyblade-x-ux-01-dran-buster-1-60a-de-takara-tomy",
+      "resale_hearts": 4
     },
     {
       "id": 105,
@@ -3571,9 +3571,9 @@
       "search_terms": [
         "BX-23"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 36,
+      "resale_url": "https://www.vinted.it/items/8446294774-phoenix-wing-bx-23-beyblade-x",
+      "resale_hearts": 1
     },
     {
       "id": 114,
@@ -3637,9 +3637,9 @@
       "search_terms": [
         "BX-00"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 150,
+      "resale_url": "https://www.vinted.it/items/8095899721-beyblade-x-25th-anniversario",
+      "resale_hearts": 16
     },
     {
       "id": 11,
@@ -3748,9 +3748,9 @@
         "Scorpio Spear",
         "UX-14"
       ],
-      "resale_eur": 24.99,
-      "resale_url": "https://www.vinted.it/items/8301225356-beyblade-x-scorpio-spear-0-70-z-ux-14-takara-tomy-neuve",
-      "resale_hearts": 16
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8444570835-scorpio-spear-0-70z-ux-14-beyblade-x",
+      "resale_hearts": 11
     },
     {
       "id": 2,
@@ -3877,9 +3877,9 @@
         "UX-17",
         "Meteor Dragoon"
       ],
-      "resale_eur": 25,
+      "resale_eur": 20,
       "resale_url": "https://www.vinted.it/items/8272770397-beyblade-x-meteor-dragoon",
-      "resale_hearts": 9
+      "resale_hearts": 19
     },
     {
       "id": 6,
@@ -3997,9 +3997,9 @@
         "Random Booster Vol 8",
         "UX-18"
       ],
-      "resale_eur": 21.99,
-      "resale_url": "https://www.vinted.it/items/8252827722-takara-tomy-beyblade-x-ux-18-random-booster-vol-8",
-      "resale_hearts": 5
+      "resale_eur": 16,
+      "resale_url": "https://www.vinted.it/items/8354023042-beyblade-x-random-booster-vol8",
+      "resale_hearts": 6
     },
     {
       "id": 102,
@@ -4091,9 +4091,9 @@
         "UX-18",
         "Mummy Cars 7-55W"
       ],
-      "resale_eur": 18.99,
-      "resale_url": "https://www.vinted.it/items/8060578734-beyblade-x-ux-18-04",
-      "resale_hearts": 17
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 79,
@@ -4170,7 +4170,7 @@
         "UX-18-04 Solbrave",
         "UX-18-04"
       ],
-      "resale_eur": 18.99,
+      "resale_eur": 15.99,
       "resale_url": "https://www.vinted.it/items/8060578734-beyblade-x-ux-18-04",
       "resale_hearts": 17
     },
@@ -4322,9 +4322,9 @@
         "BX-48",
         "Bay"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 22,
+      "resale_url": "https://www.vinted.it/items/8432118582-takara-tomy-beyblade-x-bx-48-random-booster-vol-9-05-dran-buster-2-80q",
+      "resale_hearts": 14
     },
     {
       "id": 103,
@@ -4391,9 +4391,9 @@
       "search_terms": [
         "BX-34"
       ],
-      "resale_eur": null,
-      "resale_url": null,
-      "resale_hearts": null
+      "resale_eur": 24.9,
+      "resale_url": "https://www.vinted.it/items/8428780651-beyblade-x-bx34-cobaltdragoon-sigillato",
+      "resale_hearts": 12
     },
     {
       "id": 57,
