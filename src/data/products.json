@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-04-05T08:46:51.306Z",
+  "exportedAt": "2026-04-07T07:26:17.238Z",
   "exchangeRate": {
     "jpy_eur": 0.00542,
     "fetchedAt": "2026-02-27 14:55:42"
@@ -1991,6 +1991,91 @@
       "resale_hearts": null
     },
     {
+      "id": 15,
+      "slug": "b0dc692t6x",
+      "asin": "B0DC692T6X",
+      "name": "Beyblade X BX-00 Random Booster Lightning EL Drago 1-60F",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/71b9UJcKGjL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 15.67,
+      "shipping_jp_eur": 21.53,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "tth010105",
+      "price_it_eur": 32.5,
+      "savings_eur": 16.83,
+      "savings_pct": 51.8,
+      "price_history_jp": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 14.53
+        },
+        {
+          "date": "2026-03-04",
+          "price_eur": 15.18
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 13.94
+        },
+        {
+          "date": "2026-03-06",
+          "price_eur": 13.95
+        },
+        {
+          "date": "2026-03-09",
+          "price_eur": 13.91
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 13.91
+        },
+        {
+          "date": "2026-03-11",
+          "price_eur": 13.62
+        },
+        {
+          "date": "2026-03-13",
+          "price_eur": 13.91
+        },
+        {
+          "date": "2026-03-17",
+          "price_eur": 14.2
+        },
+        {
+          "date": "2026-03-18",
+          "price_eur": 13.34
+        },
+        {
+          "date": "2026-03-30",
+          "price_eur": 13.49
+        },
+        {
+          "date": "2026-04-04",
+          "price_eur": 13.56
+        },
+        {
+          "date": "2026-04-07",
+          "price_eur": 15.67
+        }
+      ],
+      "price_history_it": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 32.5
+        }
+      ],
+      "search_terms": [
+        "Lightning EL Drago",
+        "BX-00",
+        "L Drago"
+      ],
+      "resale_eur": 39,
+      "resale_url": "https://www.vinted.it/items/8440092663-beyblade-x-bx-00-lightning-l-drago-1-60f-random-booster-de-takara-tomy",
+      "resale_hearts": 26
+    },
+    {
       "id": 116,
       "slug": "b0gs8pvz2f",
       "asin": "B0GS8PVZ2F",
@@ -2062,6 +2147,37 @@
       "resale_hearts": null
     },
     {
+      "id": 142,
+      "slug": "b0f1ch2g77",
+      "asin": "B0F1CH2G77",
+      "name": "Beyblade X BX-00 Starter Xeno Excalibur 3-60GF",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/71qmFGICiOL._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 28.07,
+      "shipping_jp_eur": 23.69,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Mag shop（古物商許可店）",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-04-07",
+          "price_eur": 28.07
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-00",
+        "Xeno Excalibur"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
       "id": 84,
       "slug": "b0c52c4l3t",
       "asin": "B0C52C4L3T",
@@ -2119,6 +2235,154 @@
       "resale_eur": 20,
       "resale_url": "https://www.vinted.it/items/8275032447-beyblade-x-bx-02-hell-shyte-4-60t",
       "resale_hearts": 4
+    },
+    {
+      "id": 25,
+      "slug": "b0c535tzp7",
+      "asin": "B0C535TZP7",
+      "name": "Beyblade X BX-12 3on3 Deck Case",
+      "name_it": null,
+      "category": "Accessory",
+      "image_url": "https://m.media-amazon.com/images/I/51PL6455BQL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 7.61,
+      "shipping_jp_eur": 22.92,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": 22.89,
+      "savings_eur": 15.28,
+      "savings_pct": 66.8,
+      "price_history_jp": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 6.7
+        },
+        {
+          "date": "2026-02-15",
+          "price_eur": 6.75
+        },
+        {
+          "date": "2026-02-17",
+          "price_eur": 6.27
+        },
+        {
+          "date": "2026-02-20",
+          "price_eur": 6.21
+        },
+        {
+          "date": "2026-02-25",
+          "price_eur": 6.17
+        },
+        {
+          "date": "2026-03-01",
+          "price_eur": 6.08
+        },
+        {
+          "date": "2026-03-04",
+          "price_eur": 7.31
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 7.2
+        },
+        {
+          "date": "2026-03-06",
+          "price_eur": 7.2
+        },
+        {
+          "date": "2026-03-09",
+          "price_eur": 7.18
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 7.18
+        },
+        {
+          "date": "2026-03-11",
+          "price_eur": 7.17
+        },
+        {
+          "date": "2026-03-13",
+          "price_eur": 12.8
+        },
+        {
+          "date": "2026-03-17",
+          "price_eur": 7.32
+        },
+        {
+          "date": "2026-03-18",
+          "price_eur": 5.83
+        },
+        {
+          "date": "2026-03-19",
+          "price_eur": 7.19
+        },
+        {
+          "date": "2026-03-20",
+          "price_eur": 12.84
+        },
+        {
+          "date": "2026-03-22",
+          "price_eur": 12.73
+        },
+        {
+          "date": "2026-03-23",
+          "price_eur": 12.73
+        },
+        {
+          "date": "2026-03-24",
+          "price_eur": 12.76
+        },
+        {
+          "date": "2026-03-25",
+          "price_eur": 12.74
+        },
+        {
+          "date": "2026-03-27",
+          "price_eur": 6.1
+        },
+        {
+          "date": "2026-03-30",
+          "price_eur": 7.26
+        },
+        {
+          "date": "2026-03-31",
+          "price_eur": 7.19
+        },
+        {
+          "date": "2026-04-02",
+          "price_eur": 7.15
+        },
+        {
+          "date": "2026-04-07",
+          "price_eur": 7.61
+        }
+      ],
+      "price_history_it": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 17.68
+        },
+        {
+          "date": "2026-02-11",
+          "price_eur": 22.97
+        },
+        {
+          "date": "2026-02-17",
+          "price_eur": 22.94
+        },
+        {
+          "date": "2026-02-20",
+          "price_eur": 22.89
+        }
+      ],
+      "search_terms": [
+        "Deck Case",
+        "BX-12"
+      ],
+      "resale_eur": 23,
+      "resale_url": "https://www.vinted.it/items/8302374343-deck-case-3on3-bx-12-beyblade-x",
+      "resale_hearts": 2
     },
     {
       "id": 130,
@@ -2352,6 +2616,37 @@
       "search_terms": [
         "BX-31 Random Booster beyblade",
         "BX-31"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 145,
+      "slug": "b0drv5mbf3",
+      "asin": "B0DRV5MBF3",
+      "name": "Beyblade X BX-31 Random Booster Vol. 3 [Complete Set of 6 Types Including Product Packaging, Bay Code Card, Etc)]",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/51ppqdYWzaL._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 83.98,
+      "shipping_jp_eur": 24.86,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-04-07",
+          "price_eur": 83.98
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-31",
+        "Etc)]"
       ],
       "resale_eur": null,
       "resale_url": null,
@@ -2754,6 +3049,37 @@
       "resale_hearts": 15
     },
     {
+      "id": 143,
+      "slug": "b0fm4gcvxy",
+      "asin": "B0FM4GCVXY",
+      "name": "Beyblade X BX-35 Random Booster Vol. 4 (Complete Set of 6 Types (Product Packaging, Bey Code Card, etc.))",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/51sSEafsG3L._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 83.98,
+      "shipping_jp_eur": 24.86,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-04-07",
+          "price_eur": 83.98
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-35",
+        "etc.))"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
       "id": 86,
       "slug": "b0d6ml5d1n",
       "asin": "B0D6ML5D1N",
@@ -2811,6 +3137,37 @@
       "search_terms": [
         "BX-35",
         "Random Booster Vol 4"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
+      "id": 144,
+      "slug": "b0drtztkp3",
+      "asin": "B0DRTZTKP3",
+      "name": "Beyblade X BX-35 Random Booster Vol.4 BX-35-06 Viper Tail 5-70D (Product Package: Inside Main Unit + Bay Code Card) [BX-35-06]",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/414mdGJ4VML._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 11.22,
+      "shipping_jp_eur": 21.58,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-04-07",
+          "price_eur": 11.22
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-35",
+        "Card)"
       ],
       "resale_eur": null,
       "resale_url": null,
@@ -3957,6 +4314,36 @@
       "resale_hearts": null
     },
     {
+      "id": 147,
+      "slug": "b0f6cbgsbn",
+      "asin": "B0F6CBGSBN",
+      "name": "Beyblade X CX-05 Random Booster Vol.6 Complete Set of 6 Types Including 2 Rare Types Beyblade X",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/711eNoCbORL._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 78.34,
+      "shipping_jp_eur": 25.01,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-04-07",
+          "price_eur": 78.34
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-05"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
       "id": 3,
       "slug": "b0fclj67nk",
       "asin": "B0FCLJ67NK",
@@ -4500,6 +4887,36 @@
       "resale_eur": 24,
       "resale_url": "https://www.vinted.it/items/8281377667-beyblade-x-golemrock-set-cx-11",
       "resale_hearts": 9
+    },
+    {
+      "id": 146,
+      "slug": "b0fzgfcy7j",
+      "asin": "B0FZGFCY7J",
+      "name": "Beyblade X CX-11 Emperor Might Deck Set Beyblade X",
+      "name_it": null,
+      "category": "Set",
+      "image_url": "https://m.media-amazon.com/images/I/51CG7VgjH3L._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 33.7,
+      "shipping_jp_eur": 23.89,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-04-07",
+          "price_eur": 33.7
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-11"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
     },
     {
       "id": 1,
@@ -5749,6 +6166,81 @@
       "resale_eur": null,
       "resale_url": null,
       "resale_hearts": null
+    },
+    {
+      "id": 110,
+      "slug": "b0ggwkvkq7",
+      "asin": "B0GGWKVKQ7",
+      "name": "Beyblade X [04] Healthy Size 3 - 85 GB BX-48 Random Booster Vol. 9",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/31mFdE5MjVL._AC_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 8.45,
+      "shipping_jp_eur": 22.96,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-19",
+          "price_eur": 9.47
+        },
+        {
+          "date": "2026-03-20",
+          "price_eur": 9.49
+        },
+        {
+          "date": "2026-03-22",
+          "price_eur": 9.41
+        },
+        {
+          "date": "2026-03-23",
+          "price_eur": 9.41
+        },
+        {
+          "date": "2026-03-24",
+          "price_eur": 9.43
+        },
+        {
+          "date": "2026-03-25",
+          "price_eur": 9.42
+        },
+        {
+          "date": "2026-03-27",
+          "price_eur": 9.43
+        },
+        {
+          "date": "2026-03-30",
+          "price_eur": 9.56
+        },
+        {
+          "date": "2026-03-31",
+          "price_eur": 8.92
+        },
+        {
+          "date": "2026-04-02",
+          "price_eur": 8.87
+        },
+        {
+          "date": "2026-04-04",
+          "price_eur": 9.04
+        },
+        {
+          "date": "2026-04-07",
+          "price_eur": 8.45
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-48",
+        "Bay"
+      ],
+      "resale_eur": 22,
+      "resale_url": "https://www.vinted.it/items/8432118582-takara-tomy-beyblade-x-bx-48-random-booster-vol-9-05-dran-buster-2-80q",
+      "resale_hearts": 14
     },
     {
       "id": 136,
@@ -7393,6 +7885,61 @@
       "resale_eur": null,
       "resale_url": null,
       "resale_hearts": null
+    },
+    {
+      "id": 70,
+      "slug": "b0gcgxg6ns",
+      "asin": "B0GCGXG6NS",
+      "name": "UX-18 Complete Set (6 Types)",
+      "name_it": null,
+      "category": "Set",
+      "image_url": "https://m.media-amazon.com/images/I/61azOra2uhL._AC_UL320_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 73.27,
+      "shipping_jp_eur": 25.01,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "おもちゃのバンマック",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-02-22",
+          "price_eur": 61.4
+        },
+        {
+          "date": "2026-02-23",
+          "price_eur": 61.4
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 61.52
+        },
+        {
+          "date": "2026-02-25",
+          "price_eur": 61.13
+        },
+        {
+          "date": "2026-02-26",
+          "price_eur": 60.74
+        },
+        {
+          "date": "2026-02-27",
+          "price_eur": 60.89
+        },
+        {
+          "date": "2026-04-07",
+          "price_eur": 73.27
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "UX-18 Complete Set (6 Types)",
+        "UX-18-SET"
+      ],
+      "resale_eur": 25,
+      "resale_url": "https://www.vinted.it/items/8299214981-ux-18-random-booster-beybladex-nuovo-e-mai-aperto-codice-jap-non-riscattato",
+      "resale_hearts": 10
     },
     {
       "id": 45,
