@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-06-17T15:15:29.179Z",
+  "exportedAt": "2026-06-18T08:08:41.242Z",
   "exchangeRate": {
     "jpy_eur": 0.00542,
     "fetchedAt": "2026-02-27 14:55:42"
@@ -14,7 +14,7 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/81Z1ubxBcbL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 28.62,
+      "price_jp_eur": 28.84,
       "shipping_jp_eur": 22.46,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -22,10 +22,6 @@
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-04-15",
-          "price_eur": 44.87
-        },
         {
           "date": "2026-04-16",
           "price_eur": 45.57
@@ -141,6 +137,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 28.62
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 28.84
         }
       ],
       "price_history_it": [],
@@ -161,18 +161,14 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61rRlWgjv7L._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 12.66,
-      "shipping_jp_eur": 21.07,
+      "price_jp_eur": 12.6,
+      "shipping_jp_eur": 21.15,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-03-04",
-          "price_eur": 10.09
-        },
         {
           "date": "2026-03-05",
           "price_eur": 11.16
@@ -276,6 +272,10 @@
         {
           "date": "2026-06-14",
           "price_eur": 12.66
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 12.6
         }
       ],
       "price_history_it": [],
@@ -443,18 +443,14 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/81+Q7d37iIL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 25.71,
-      "shipping_jp_eur": 21.12,
+      "price_jp_eur": 25.91,
+      "shipping_jp_eur": 21.29,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-05-06",
-          "price_eur": 28.04
-        },
         {
           "date": "2026-05-08",
           "price_eur": 27.64
@@ -570,6 +566,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 25.71
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 25.91
         }
       ],
       "price_history_it": [],
@@ -590,18 +590,14 @@
       "category": "Set",
       "image_url": "https://m.media-amazon.com/images/I/81t44FR1lIL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 25.1,
-      "shipping_jp_eur": 21.03,
+      "price_jp_eur": 25.3,
+      "shipping_jp_eur": 21.2,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-04-02",
-          "price_eur": 25.4
-        },
         {
           "date": "2026-04-04",
           "price_eur": 25.87
@@ -717,6 +713,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 25.1
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 25.3
         }
       ],
       "price_history_it": [],
@@ -737,18 +737,14 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/41dQP-LHoSL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 31.13,
-      "shipping_jp_eur": 22.33,
+      "price_jp_eur": 31.38,
+      "shipping_jp_eur": 22.51,
       "fulfilled_by_amazon": true,
       "seller_jp": "(株)インベンティブ",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-04-24",
-          "price_eur": 27.22
-        },
         {
           "date": "2026-04-25",
           "price_eur": 27.19
@@ -864,6 +860,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 31.13
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 31.38
         }
       ],
       "price_history_it": [],
@@ -1015,6 +1015,36 @@
       "resale_hearts": null
     },
     {
+      "id": 188,
+      "slug": "b0h2v2jjrv",
+      "asin": "B0H2V2JJRV",
+      "name": "Beyblade X (Complete Set of 3 Types) Brachio Whip OW5-70Nr, Bey Code Included, Authentic Domestic Product CX-18 Random Booster",
+      "name_it": null,
+      "category": "Random booster",
+      "image_url": "https://m.media-amazon.com/images/I/61AW6a5OA1L._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 99.44,
+      "shipping_jp_eur": 27.96,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "(株)インベンティブ",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-06-18",
+          "price_eur": 99.44
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "CX-18"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
       "id": 159,
       "slug": "b0cy4h1tjd",
       "asin": "B0CY4H1TJD",
@@ -1145,147 +1175,35 @@
       "resale_hearts": null
     },
     {
-      "id": 116,
-      "slug": "b0gs8pvz2f",
-      "asin": "B0GS8PVZ2F",
-      "name": "Beyblade X BX-00 Starter Storm Spriggan 2-70M",
+      "id": 127,
+      "slug": "b0c52zrxbd",
+      "asin": "B0C52ZRXBD",
+      "name": "Beyblade X BX-05 Booster Wizard Arrow 4-80B",
       "name_it": null,
       "category": "Beyblade",
-      "image_url": "https://m.media-amazon.com/images/I/715fF9XOWgL._AC_SX679_.jpg",
+      "image_url": "https://m.media-amazon.com/images/I/61fpYyCip3L._AC_SX679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 16.49,
-      "shipping_jp_eur": 22.58,
+      "price_jp_eur": 15.36,
+      "shipping_jp_eur": 21.24,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "誉れ堂",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
         {
-          "date": "2026-03-23",
-          "price_eur": 12.73
-        },
-        {
-          "date": "2026-03-24",
-          "price_eur": 12.76
-        },
-        {
-          "date": "2026-03-25",
-          "price_eur": 12.59
-        },
-        {
           "date": "2026-03-27",
-          "price_eur": 11.98
+          "price_eur": 12.15
         },
         {
-          "date": "2026-03-30",
-          "price_eur": 11.74
-        },
-        {
-          "date": "2026-03-31",
-          "price_eur": 11.05
-        },
-        {
-          "date": "2026-04-01",
-          "price_eur": 10.8
-        },
-        {
-          "date": "2026-04-02",
-          "price_eur": 10.98
-        },
-        {
-          "date": "2026-04-03",
-          "price_eur": 10.85
-        },
-        {
-          "date": "2026-04-04",
-          "price_eur": 11.13
-        },
-        {
-          "date": "2026-04-05",
-          "price_eur": 11.01
-        },
-        {
-          "date": "2026-04-07",
-          "price_eur": 11.17
-        },
-        {
-          "date": "2026-04-08",
-          "price_eur": 11.12
-        },
-        {
-          "date": "2026-04-09",
-          "price_eur": 11.43
-        },
-        {
-          "date": "2026-04-10",
-          "price_eur": 10.09
-        },
-        {
-          "date": "2026-04-11",
-          "price_eur": 10.21
-        },
-        {
-          "date": "2026-04-12",
-          "price_eur": 10.04
-        },
-        {
-          "date": "2026-04-13",
-          "price_eur": 10.21
-        },
-        {
-          "date": "2026-04-14",
-          "price_eur": 8.79
-        },
-        {
-          "date": "2026-04-15",
-          "price_eur": 8.81
-        },
-        {
-          "date": "2026-04-16",
-          "price_eur": 8.94
-        },
-        {
-          "date": "2026-04-17",
-          "price_eur": 8.79
-        },
-        {
-          "date": "2026-04-18",
-          "price_eur": 8.83
-        },
-        {
-          "date": "2026-04-20",
-          "price_eur": 11.23
-        },
-        {
-          "date": "2026-04-21",
-          "price_eur": 11.29
-        },
-        {
-          "date": "2026-04-22",
-          "price_eur": 12.55
-        },
-        {
-          "date": "2026-04-23",
-          "price_eur": 12.79
-        },
-        {
-          "date": "2026-04-24",
-          "price_eur": 12.57
-        },
-        {
-          "date": "2026-06-02",
-          "price_eur": 16.52
-        },
-        {
-          "date": "2026-06-03",
-          "price_eur": 16.49
+          "date": "2026-06-18",
+          "price_eur": 15.36
         }
       ],
       "price_history_it": [],
       "search_terms": [
-        "BX-00",
-        "Storm Spriggan"
+        "BX-05",
+        "Wizard Arrow"
       ],
       "resale_eur": null,
       "resale_url": null,
@@ -1753,6 +1671,69 @@
       "resale_hearts": null
     },
     {
+      "id": 118,
+      "slug": "b0djqq38tg",
+      "asin": "B0DJQQ38TG",
+      "name": "Beyblade X BX-38 Booster Crimson Garuda 4-70TP",
+      "name_it": null,
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61q5jy4IkFL._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 10.77,
+      "shipping_jp_eur": 21.1,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "SMHS 古物商許可60101R050050号(インボイス未取得）",
+      "price_it_eur": null,
+      "savings_eur": null,
+      "savings_pct": null,
+      "price_history_jp": [
+        {
+          "date": "2026-03-23",
+          "price_eur": 4.43
+        },
+        {
+          "date": "2026-04-12",
+          "price_eur": 4.77
+        },
+        {
+          "date": "2026-04-13",
+          "price_eur": 4.85
+        },
+        {
+          "date": "2026-04-14",
+          "price_eur": 4.75
+        },
+        {
+          "date": "2026-04-15",
+          "price_eur": 4.76
+        },
+        {
+          "date": "2026-04-16",
+          "price_eur": 4.83
+        },
+        {
+          "date": "2026-04-17",
+          "price_eur": 4.75
+        },
+        {
+          "date": "2026-04-18",
+          "price_eur": 4.77
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 10.77
+        }
+      ],
+      "price_history_it": [],
+      "search_terms": [
+        "BX-38",
+        "Crimson Garuda"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
       "id": 95,
       "slug": "b0dskdbftd",
       "asin": "B0DSKDBFTD",
@@ -1761,18 +1742,14 @@
       "category": "Booster",
       "image_url": "https://m.media-amazon.com/images/I/61B0Tm9q6FL._AC_SL1100_.jpg",
       "available_jp": true,
-      "price_jp_eur": 12.5,
-      "shipping_jp_eur": 21.07,
+      "price_jp_eur": 13.15,
+      "shipping_jp_eur": 21.24,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-05-04",
-          "price_eur": 13.98
-        },
         {
           "date": "2026-05-05",
           "price_eur": 13.78
@@ -1888,6 +1865,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 12.5
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 13.15
         }
       ],
       "price_history_it": [],
@@ -1909,18 +1890,14 @@
       "category": "Launcher",
       "image_url": "https://m.media-amazon.com/images/I/41dY7xFDNYL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 6.6,
-      "shipping_jp_eur": 21.55,
+      "price_jp_eur": 6.65,
+      "shipping_jp_eur": 21.72,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 25.71,
-      "savings_eur": 19.11,
-      "savings_pct": 74.3,
+      "savings_eur": 19.06,
+      "savings_pct": 74.1,
       "price_history_jp": [
-        {
-          "date": "2026-03-11",
-          "price_eur": 3.42
-        },
         {
           "date": "2026-03-13",
           "price_eur": 3.42
@@ -2036,6 +2013,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 6.6
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 6.65
         }
       ],
       "price_history_it": [
@@ -2373,8 +2354,8 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61r02QY+sgL._AC_SX679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 13.7,
-      "shipping_jp_eur": 20.98,
+      "price_jp_eur": 13.15,
+      "shipping_jp_eur": 21.15,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -2456,6 +2437,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 13.7
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 13.15
         }
       ],
       "price_history_it": [],
@@ -2632,8 +2617,8 @@
       "category": "Random booster",
       "image_url": "https://m.media-amazon.com/images/I/61d+LkqSmeL._AC_SY300_SX300_QL70_ML2_.jpg",
       "available_jp": true,
-      "price_jp_eur": 35.52,
-      "shipping_jp_eur": 22.33,
+      "price_jp_eur": 35.8,
+      "shipping_jp_eur": 22.51,
       "fulfilled_by_amazon": true,
       "seller_jp": "(株)インベンティブ",
       "price_it_eur": null,
@@ -2667,6 +2652,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 35.52
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 35.8
         }
       ],
       "price_history_it": [],
@@ -2826,6 +2815,295 @@
       "resale_hearts": null
     },
     {
+      "id": 32,
+      "slug": "b0dwsrhp7j",
+      "asin": "B0DWSRHP7J",
+      "name": "Beyblade X CX-02 Starter Wizard Arc R4-55LO",
+      "name_it": "Arc Wizard",
+      "category": "Beyblade",
+      "image_url": "https://m.media-amazon.com/images/I/61qO6OBNzBL._AC_SX569_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 17.57,
+      "shipping_jp_eur": 22.29,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "Hidamaristore Esha",
+      "price_it_eur": 26.33,
+      "savings_eur": 8.76,
+      "savings_pct": 33.3,
+      "price_history_jp": [
+        {
+          "date": "2026-04-08",
+          "price_eur": 8.47
+        },
+        {
+          "date": "2026-04-09",
+          "price_eur": 8.33
+        },
+        {
+          "date": "2026-04-10",
+          "price_eur": 8.28
+        },
+        {
+          "date": "2026-04-11",
+          "price_eur": 8.38
+        },
+        {
+          "date": "2026-04-12",
+          "price_eur": 8.24
+        },
+        {
+          "date": "2026-04-13",
+          "price_eur": 8.47
+        },
+        {
+          "date": "2026-04-14",
+          "price_eur": 8.3
+        },
+        {
+          "date": "2026-04-15",
+          "price_eur": 8.31
+        },
+        {
+          "date": "2026-04-16",
+          "price_eur": 8.44
+        },
+        {
+          "date": "2026-04-17",
+          "price_eur": 8.3
+        },
+        {
+          "date": "2026-04-19",
+          "price_eur": 8.33
+        },
+        {
+          "date": "2026-04-20",
+          "price_eur": 8.26
+        },
+        {
+          "date": "2026-04-21",
+          "price_eur": 8.25
+        },
+        {
+          "date": "2026-04-23",
+          "price_eur": 8.41
+        },
+        {
+          "date": "2026-05-30",
+          "price_eur": 16.65
+        },
+        {
+          "date": "2026-06-01",
+          "price_eur": 18.12
+        },
+        {
+          "date": "2026-06-02",
+          "price_eur": 16.5
+        },
+        {
+          "date": "2026-06-03",
+          "price_eur": 18.43
+        },
+        {
+          "date": "2026-06-04",
+          "price_eur": 18.15
+        },
+        {
+          "date": "2026-06-05",
+          "price_eur": 18.44
+        },
+        {
+          "date": "2026-06-06",
+          "price_eur": 18.24
+        },
+        {
+          "date": "2026-06-07",
+          "price_eur": 18.24
+        },
+        {
+          "date": "2026-06-08",
+          "price_eur": 16.36
+        },
+        {
+          "date": "2026-06-09",
+          "price_eur": 18.23
+        },
+        {
+          "date": "2026-06-10",
+          "price_eur": 18.19
+        },
+        {
+          "date": "2026-06-11",
+          "price_eur": 16.31
+        },
+        {
+          "date": "2026-06-12",
+          "price_eur": 16.42
+        },
+        {
+          "date": "2026-06-13",
+          "price_eur": 17.5
+        },
+        {
+          "date": "2026-06-14",
+          "price_eur": 18.71
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 17.57
+        }
+      ],
+      "price_history_it": [
+        {
+          "date": "2026-02-11",
+          "price_eur": 26.41
+        },
+        {
+          "date": "2026-02-17",
+          "price_eur": 31.6
+        },
+        {
+          "date": "2026-02-20",
+          "price_eur": 26.33
+        }
+      ],
+      "search_terms": [
+        "Wizard Arc",
+        "CX-02",
+        "Arc Wizard"
+      ],
+      "resale_eur": 17,
+      "resale_url": "https://www.vinted.it/items/8345826399-beyblade-wizard-cx-02",
+      "resale_hearts": 3
+    },
+    {
+      "id": 31,
+      "slug": "b0dws1n4zx",
+      "asin": "B0DWS1N4ZX",
+      "name": "Beyblade X CX-04 Battle Entry Set C",
+      "name_it": null,
+      "category": "Set",
+      "image_url": "https://m.media-amazon.com/images/I/61RNnRJffxL._AC_SX679_.jpg",
+      "available_jp": true,
+      "price_jp_eur": 87.29,
+      "shipping_jp_eur": 62.87,
+      "fulfilled_by_amazon": true,
+      "seller_jp": "The Hort",
+      "price_it_eur": 141.97,
+      "savings_eur": 54.68,
+      "savings_pct": 38.5,
+      "price_history_jp": [
+        {
+          "date": "2026-02-09",
+          "price_eur": 27.24
+        },
+        {
+          "date": "2026-02-15",
+          "price_eur": 27.44
+        },
+        {
+          "date": "2026-02-17",
+          "price_eur": 27.81
+        },
+        {
+          "date": "2026-02-20",
+          "price_eur": 27.26
+        },
+        {
+          "date": "2026-02-23",
+          "price_eur": 27.22
+        },
+        {
+          "date": "2026-02-24",
+          "price_eur": 27.27
+        },
+        {
+          "date": "2026-02-25",
+          "price_eur": 27.1
+        },
+        {
+          "date": "2026-02-26",
+          "price_eur": 26.93
+        },
+        {
+          "date": "2026-02-27",
+          "price_eur": 26.99
+        },
+        {
+          "date": "2026-03-01",
+          "price_eur": 25.08
+        },
+        {
+          "date": "2026-03-04",
+          "price_eur": 29.72
+        },
+        {
+          "date": "2026-03-05",
+          "price_eur": 28.92
+        },
+        {
+          "date": "2026-03-10",
+          "price_eur": 29.72
+        },
+        {
+          "date": "2026-04-05",
+          "price_eur": 38.25
+        },
+        {
+          "date": "2026-04-07",
+          "price_eur": 38.83
+        },
+        {
+          "date": "2026-04-09",
+          "price_eur": 38.59
+        },
+        {
+          "date": "2026-06-05",
+          "price_eur": 66.49
+        },
+        {
+          "date": "2026-06-06",
+          "price_eur": 65.76
+        },
+        {
+          "date": "2026-06-08",
+          "price_eur": 71.72
+        },
+        {
+          "date": "2026-06-12",
+          "price_eur": 87.08
+        },
+        {
+          "date": "2026-06-16",
+          "price_eur": 97.74
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 87.29
+        }
+      ],
+      "price_history_it": [
+        {
+          "date": "2026-02-11",
+          "price_eur": 141.97
+        },
+        {
+          "date": "2026-02-17",
+          "price_eur": 141.97
+        },
+        {
+          "date": "2026-02-20",
+          "price_eur": 141.97
+        }
+      ],
+      "search_terms": [
+        "Battle Entry Set C",
+        "CX-04"
+      ],
+      "resale_eur": null,
+      "resale_url": null,
+      "resale_hearts": null
+    },
+    {
       "id": 185,
       "slug": "b0h2nqcqcz",
       "asin": "B0H2NQCQCZ",
@@ -2834,8 +3112,8 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61ZhsWU9YoL._AC_SY300_SX300_QL70_ML2_.jpg",
       "available_jp": true,
-      "price_jp_eur": 21.81,
-      "shipping_jp_eur": 22.33,
+      "price_jp_eur": 21.99,
+      "shipping_jp_eur": 22.51,
       "fulfilled_by_amazon": true,
       "seller_jp": "(株)インベンティブ",
       "price_it_eur": null,
@@ -2853,6 +3131,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 21.81
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 21.99
         }
       ],
       "price_history_it": [],
@@ -3263,18 +3545,14 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/71HNhQey5TL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 15.96,
-      "shipping_jp_eur": 21.11,
+      "price_jp_eur": 16.57,
+      "shipping_jp_eur": 21.19,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-04-10",
-          "price_eur": 7.18
-        },
         {
           "date": "2026-04-11",
           "price_eur": 7.27
@@ -3390,6 +3668,10 @@
         {
           "date": "2026-06-14",
           "price_eur": 15.96
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 16.57
         }
       ],
       "price_history_it": [],
@@ -3410,7 +3692,7 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/81pBG1xm97L._AC_SX679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 16.19,
+      "price_jp_eur": 16.16,
       "shipping_jp_eur": 20.78,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -3418,10 +3700,6 @@
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-05-12",
-          "price_eur": 16.57
-        },
         {
           "date": "2026-05-14",
           "price_eur": 16.95
@@ -3537,6 +3815,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 16.19
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 16.16
         }
       ],
       "price_history_it": [],
@@ -3554,18 +3836,14 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61ZyOEOkD9L._AC_SY679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 23.46,
-      "shipping_jp_eur": 22.03,
+      "price_jp_eur": 23.65,
+      "shipping_jp_eur": 22.2,
       "fulfilled_by_amazon": true,
       "seller_jp": "(株)インベンティブ",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-05-16",
-          "price_eur": 20.34
-        },
         {
           "date": "2026-05-19",
           "price_eur": 18.09
@@ -3681,6 +3959,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 23.46
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 23.65
         }
       ],
       "price_history_it": [],
@@ -3700,8 +3982,8 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/81AHmHa0QrL._AC_SY300_SX300_QL70_ML2_.jpg",
       "available_jp": true,
-      "price_jp_eur": 50.98,
-      "shipping_jp_eur": 22.01,
+      "price_jp_eur": 51.39,
+      "shipping_jp_eur": 22.18,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": null,
@@ -3807,6 +4089,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 50.98
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 51.39
         }
       ],
       "price_history_it": [],
@@ -3824,8 +4110,8 @@
       "category": "Random booster",
       "image_url": "https://m.media-amazon.com/images/I/3127gfgcf7L._AC_.jpg",
       "available_jp": true,
-      "price_jp_eur": 41,
-      "shipping_jp_eur": 22.33,
+      "price_jp_eur": 44.09,
+      "shipping_jp_eur": 22.51,
       "fulfilled_by_amazon": true,
       "seller_jp": "(株)インベンティブ",
       "price_it_eur": null,
@@ -3859,6 +4145,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 41
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 44.09
         }
       ],
       "price_history_it": [],
@@ -3909,83 +4199,6 @@
       "resale_hearts": 16
     },
     {
-      "id": 5,
-      "slug": "b0dgfznd26",
-      "asin": "B0DGFZND26",
-      "name": "Beyblade X UX-08 Starter Silver Wolf 3-80FB",
-      "name_it": "Sterling Wolf",
-      "category": "Beyblade",
-      "image_url": "https://m.media-amazon.com/images/I/61ms17dm4vL._AC_UL320_.jpg",
-      "available_jp": true,
-      "price_jp_eur": 24.66,
-      "shipping_jp_eur": 22.2,
-      "fulfilled_by_amazon": true,
-      "seller_jp": "グルグル",
-      "price_it_eur": 40.75,
-      "savings_eur": 16.09,
-      "savings_pct": 39.5,
-      "price_history_jp": [
-        {
-          "date": "2026-02-09",
-          "price_eur": 7.67
-        },
-        {
-          "date": "2026-02-15",
-          "price_eur": 7.73
-        },
-        {
-          "date": "2026-02-17",
-          "price_eur": 7.83
-        },
-        {
-          "date": "2026-02-20",
-          "price_eur": 12.66
-        },
-        {
-          "date": "2026-04-04",
-          "price_eur": 8.42
-        },
-        {
-          "date": "2026-04-05",
-          "price_eur": 8.28
-        },
-        {
-          "date": "2026-04-15",
-          "price_eur": 8.32
-        },
-        {
-          "date": "2026-06-17",
-          "price_eur": 24.66
-        }
-      ],
-      "price_history_it": [
-        {
-          "date": "2026-02-09",
-          "price_eur": 41.53
-        },
-        {
-          "date": "2026-02-11",
-          "price_eur": 41.65
-        },
-        {
-          "date": "2026-02-17",
-          "price_eur": 41.07
-        },
-        {
-          "date": "2026-02-20",
-          "price_eur": 40.75
-        }
-      ],
-      "search_terms": [
-        "Silver Wolf",
-        "UX-08",
-        "Sterling Wolf"
-      ],
-      "resale_eur": 29,
-      "resale_url": "https://www.vinted.it/items/8440197820-beyblade-x-ux-08-silver-wolf-3-80fb-de-takara-tomy",
-      "resale_hearts": 6
-    },
-    {
       "id": 186,
       "slug": "b0h24p41g5",
       "asin": "B0H24P41G5",
@@ -3994,10 +4207,10 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61FGGyVCz6L._AC_SX679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 35.52,
-      "shipping_jp_eur": 22.33,
+      "price_jp_eur": 35.8,
+      "shipping_jp_eur": 22.51,
       "fulfilled_by_amazon": true,
-      "seller_jp": null,
+      "seller_jp": "(株)インベンティブ",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
@@ -4017,6 +4230,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 35.52
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 35.8
         }
       ],
       "price_history_it": [],
@@ -4330,7 +4547,7 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/8112+zBkhLL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 16.73,
+      "price_jp_eur": 16.86,
       "shipping_jp_eur": 22.04,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -4338,10 +4555,6 @@
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-05-04",
-          "price_eur": 24.52
-        },
         {
           "date": "2026-05-05",
           "price_eur": 21.66
@@ -4457,6 +4670,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 16.73
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 16.86
         }
       ],
       "price_history_it": [],
@@ -4477,18 +4694,14 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/41p3g2C+4nL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 32.78,
-      "shipping_jp_eur": 22.08,
+      "price_jp_eur": 33.04,
+      "shipping_jp_eur": 22.26,
       "fulfilled_by_amazon": true,
       "seller_jp": "(株)インベンティブ",
       "price_it_eur": null,
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-05-15",
-          "price_eur": 30.28
-        },
         {
           "date": "2026-05-19",
           "price_eur": 32.99
@@ -4604,6 +4817,10 @@
         {
           "date": "2026-06-17",
           "price_eur": 32.78
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 33.04
         }
       ],
       "price_history_it": [],
@@ -4918,7 +5135,7 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/81PUUG34VuL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 16.69,
+      "price_jp_eur": 16.81,
       "shipping_jp_eur": 20.83,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -4926,10 +5143,6 @@
       "savings_eur": null,
       "savings_pct": null,
       "price_history_jp": [
-        {
-          "date": "2026-04-02",
-          "price_eur": 20.46
-        },
         {
           "date": "2026-04-04",
           "price_eur": 20.84
@@ -5045,6 +5258,10 @@
         {
           "date": "2026-06-16",
           "price_eur": 16.69
+        },
+        {
+          "date": "2026-06-18",
+          "price_eur": 16.81
         }
       ],
       "price_history_it": [],
