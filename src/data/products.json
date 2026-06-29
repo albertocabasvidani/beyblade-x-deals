@@ -1,5 +1,5 @@
 {
-  "exportedAt": "2026-06-29T06:51:12.423Z",
+  "exportedAt": "2026-06-29T08:07:53.615Z",
   "exchangeRate": {
     "jpy_eur": 0.00542,
     "fetchedAt": "2026-02-27 14:55:42"
@@ -1147,7 +1147,7 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/61M3m-HYBvL._AC_SX679_.jpg",
       "available_jp": true,
-      "price_jp_eur": 10.98,
+      "price_jp_eur": 11.04,
       "shipping_jp_eur": 21.38,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
@@ -1225,7 +1225,7 @@
         },
         {
           "date": "2026-06-29",
-          "price_eur": 10.98
+          "price_eur": 11.04
         }
       ],
       "price_history_it": [],
@@ -3602,10 +3602,6 @@
       "savings_pct": 28.6,
       "price_history_jp": [
         {
-          "date": "2026-02-15",
-          "price_eur": 27.44
-        },
-        {
           "date": "2026-02-17",
           "price_eur": 27.81
         },
@@ -3975,18 +3971,14 @@
       "category": "Beyblade",
       "image_url": "https://m.media-amazon.com/images/I/616LLncUykL._AC_UL320_.jpg",
       "available_jp": true,
-      "price_jp_eur": 17.19,
-      "shipping_jp_eur": 21.02,
+      "price_jp_eur": 14.53,
+      "shipping_jp_eur": 21.35,
       "fulfilled_by_amazon": true,
       "seller_jp": null,
       "price_it_eur": 39.64,
-      "savings_eur": 22.45,
-      "savings_pct": 56.6,
+      "savings_eur": 25.11,
+      "savings_pct": 63.3,
       "price_history_jp": [
-        {
-          "date": "2026-03-20",
-          "price_eur": 7.02
-        },
         {
           "date": "2026-03-22",
           "price_eur": 6.64
@@ -4102,6 +4094,10 @@
         {
           "date": "2026-06-26",
           "price_eur": 17.19
+        },
+        {
+          "date": "2026-06-29",
+          "price_eur": 14.53
         }
       ],
       "price_history_it": [
@@ -4918,10 +4914,6 @@
       "savings_eur": -11.88,
       "savings_pct": -33,
       "price_history_jp": [
-        {
-          "date": "2026-02-24",
-          "price_eur": 12.64
-        },
         {
           "date": "2026-02-25",
           "price_eur": 12.56
